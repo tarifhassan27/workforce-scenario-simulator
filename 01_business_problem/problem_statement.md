@@ -41,7 +41,7 @@ The CHRO has been asked to reduce workforce costs by 5% over the next 12 months 
 ## 4. Levers (v1)
 
 1. **Hiring freeze.** Departures from natural attrition are not backfilled for the 12-month horizon, with no exemption for the protected set. If a critical position empties out through attrition, it stays empty — this is a deliberate test of the blanket-freeze default many companies reach for first.
-2. **Delayering.** Managers below a minimum span of control are removed; their direct reports move to the next manager up. Span threshold set in `assumptions.md`.
+2. **Delayering.** Managers below a minimum span of control are removed from their management role and redeployed into an IC role at the same or one grade down; their direct reports move to the next manager up. No severance is paid, and the person is not counted as lost — only the base-pay difference between their manager and IC grade is saved. Span threshold set in `assumptions.md`.
 3. **Targeted layoffs.** Headcount is reduced in C roles first, lowest performance ratings first, until the target is reached or C roles are exhausted.
 
 Each lever is tested **on its own**. If no single lever passes, that is a valid finding, not a failure of the model.
