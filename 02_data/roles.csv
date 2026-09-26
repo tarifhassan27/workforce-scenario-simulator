@@ -1,0 +1,48 @@
+role_id,role_name,division,grade_min,grade_max,strategic_impact,adjacent_qualified_headcount,time_to_fill_days,lever_eligible
+R001,ML/AI Engineer,Engineering,1,3,True,25,95,True
+R002,Senior Backend/Platform Engineer,Engineering,1,3,True,30,90,True
+R003,Software Engineer (general),Engineering,1,3,False,40,45,True
+R004,SRE/DevOps Engineer,Engineering,1,3,False,3,80,True
+R005,QA/Test Engineer,Engineering,1,3,False,50,25,True
+R006,Engineering Manager,Engineering,4,4,False,20,45,True
+R007,Engineering Director,Engineering,5,5,False,15,50,True
+R008,Engineering VP,Engineering,6,6,False,10,55,True
+R009,Enterprise Account Executive,Sales,1,3,True,15,85,True
+R010,Solutions Architect (Sales Eng.),Sales,1,3,True,10,90,True
+R011,Sales Development Rep,Sales,1,3,False,45,30,True
+R012,Sales Manager,Sales,4,4,False,20,45,True
+R013,Sales Director,Sales,5,5,False,15,50,True
+R014,Sales VP,Sales,6,6,False,10,55,True
+R015,Enterprise CSM,Customer Success,1,3,False,4,70,True
+R016,Technical Support Engineer,Customer Success,1,3,False,55,20,True
+R017,CS Manager,Customer Success,4,4,False,20,45,True
+R018,CS Director,Customer Success,5,5,False,15,50,True
+R019,CS VP,Customer Success,6,6,False,10,55,True
+R020,Senior Product Manager,Product,1,3,True,12,80,True
+R021,Product Designer,Product,1,3,False,25,40,True
+R022,Product Team Lead,Product,4,4,False,20,45,True
+R023,Product Director,Product,5,5,False,15,50,True
+R024,Product VP,Product,6,6,False,10,55,True
+R025,Product Marketing Manager,Marketing,1,3,False,20,45,True
+R026,Marketing Generalist / Content,Marketing,1,3,False,35,20,True
+R027,Marketing Manager,Marketing,4,4,False,20,45,True
+R028,Marketing Director,Marketing,5,5,False,15,50,True
+R029,Marketing VP,Marketing,6,6,False,10,55,True
+R030,Legal Counsel,G&A,1,3,False,2,95,True
+R031,Technical Recruiter,G&A,1,3,False,3,70,True
+R032,Finance Analyst,G&A,1,3,False,60,25,True
+R033,HR Generalist,G&A,1,3,False,50,25,True
+R034,IT Support,G&A,1,3,False,45,20,True
+R035,Executive Assistant,G&A,1,3,False,40,20,True
+R036,G&A Manager,G&A,4,4,False,20,45,True
+R037,G&A Director,G&A,5,5,False,15,50,True
+R038,G&A VP,G&A,6,6,False,10,55,True
+R039,Infrastructure/Data Center Engineer,Operations,1,3,False,4,85,True
+R040,Program Manager (Ops),Operations,1,3,False,40,25,True
+R041,Ops Manager,Operations,4,4,False,20,45,True
+R042,Ops Director,Operations,5,5,False,15,50,True
+R043,Ops VP,Operations,6,6,False,10,55,True
+R044,SVP Engineering & Product,Corporate,7,7,False,2,100,False
+R045,SVP G&A & Operations,Corporate,7,7,False,2,100,False
+R046,SVP Go-to-Market,Corporate,7,7,False,2,100,False
+R047,CEO,Corporate,7,7,False,1,120,False

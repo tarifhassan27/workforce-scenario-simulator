@@ -1,0 +1,2005 @@
+employee_id,role_id,role_name,division,grade,base_salary_usd,tenure_years,rating,manager_id
+E00001,R001,ML/AI Engineer,Engineering,2,107105,1.8,3,E00525
+E00002,R001,ML/AI Engineer,Engineering,3,146403,0.0,2,E00561
+E00003,R001,ML/AI Engineer,Engineering,2,110412,1.0,2,E00542
+E00004,R001,ML/AI Engineer,Engineering,2,97576,0.7,2,E00536
+E00005,R001,ML/AI Engineer,Engineering,2,98525,0.6,2,E00534
+E00006,R001,ML/AI Engineer,Engineering,1,89780,0.2,1,E00545
+E00007,R001,ML/AI Engineer,Engineering,3,143822,1.7,3,E00554
+E00008,R001,ML/AI Engineer,Engineering,1,82585,3.2,2,E00539
+E00009,R001,ML/AI Engineer,Engineering,1,82351,0.8,3,E00539
+E00010,R001,ML/AI Engineer,Engineering,2,110752,12.1,4,E00572
+E00011,R001,ML/AI Engineer,Engineering,1,74889,0.8,5,E00535
+E00012,R001,ML/AI Engineer,Engineering,2,103529,1.2,4,E00526
+E00013,R001,ML/AI Engineer,Engineering,1,77632,6.0,5,E00532
+E00014,R001,ML/AI Engineer,Engineering,2,110409,2.4,3,E00512
+E00015,R001,ML/AI Engineer,Engineering,1,77160,2.8,4,E00554
+E00016,R001,ML/AI Engineer,Engineering,1,74791,3.4,1,E00538
+E00017,R001,ML/AI Engineer,Engineering,2,103326,1.1,3,E00538
+E00018,R001,ML/AI Engineer,Engineering,2,93290,0.4,3,E00566
+E00019,R001,ML/AI Engineer,Engineering,2,91229,4.2,2,E00545
+E00020,R001,ML/AI Engineer,Engineering,1,73611,3.1,4,E00572
+E00021,R001,ML/AI Engineer,Engineering,3,134864,6.6,3,E00565
+E00022,R001,ML/AI Engineer,Engineering,1,79355,2.7,1,E00574
+E00023,R001,ML/AI Engineer,Engineering,3,118797,2.2,5,E00507
+E00024,R001,ML/AI Engineer,Engineering,1,83155,7.1,4,E00548
+E00025,R001,ML/AI Engineer,Engineering,2,103271,3.7,2,E00520
+E00026,R001,ML/AI Engineer,Engineering,1,85305,4.5,3,E00517
+E00027,R001,ML/AI Engineer,Engineering,1,86948,0.1,2,E00544
+E00028,R001,ML/AI Engineer,Engineering,2,110382,14.3,3,E00507
+E00029,R001,ML/AI Engineer,Engineering,1,72123,1.8,2,E00524
+E00030,R001,ML/AI Engineer,Engineering,1,73588,2.4,4,E00557
+E00031,R001,ML/AI Engineer,Engineering,3,120532,4.0,2,E00576
+E00032,R001,ML/AI Engineer,Engineering,2,102888,1.9,2,E00523
+E00033,R001,ML/AI Engineer,Engineering,3,118378,1.8,4,E00581
+E00034,R001,ML/AI Engineer,Engineering,1,71374,11.6,2,E00514
+E00035,R001,ML/AI Engineer,Engineering,2,113027,3.9,2,E00564
+E00036,R001,ML/AI Engineer,Engineering,1,89432,0.4,2,E00543
+E00037,R001,ML/AI Engineer,Engineering,1,84934,1.8,3,E00572
+E00038,R001,ML/AI Engineer,Engineering,1,82076,2.8,3,E00530
+E00039,R001,ML/AI Engineer,Engineering,2,92257,0.0,3,E00507
+E00040,R001,ML/AI Engineer,Engineering,3,121436,1.8,3,E00569
+E00041,R001,ML/AI Engineer,Engineering,3,140945,1.5,4,E00581
+E00042,R001,ML/AI Engineer,Engineering,1,87554,0.1,4,E00548
+E00043,R001,ML/AI Engineer,Engineering,1,89436,0.1,4,E00555
+E00044,R001,ML/AI Engineer,Engineering,2,104176,0.1,4,E00508
+E00045,R001,ML/AI Engineer,Engineering,2,106072,5.1,2,E00548
+E00046,R001,ML/AI Engineer,Engineering,2,110290,0.2,5,E00577
+E00047,R001,ML/AI Engineer,Engineering,3,115559,6.4,2,E00519
+E00048,R001,ML/AI Engineer,Engineering,2,91267,3.1,1,E00558
+E00049,R001,ML/AI Engineer,Engineering,2,97624,2.0,2,E00578
+E00050,R001,ML/AI Engineer,Engineering,2,93228,9.0,1,E00579
+E00051,R001,ML/AI Engineer,Engineering,2,91280,2.3,2,E00533
+E00052,R001,ML/AI Engineer,Engineering,3,137119,0.8,3,E00560
+E00053,R001,ML/AI Engineer,Engineering,1,73284,1.2,3,E00536
+E00054,R001,ML/AI Engineer,Engineering,2,104093,5.2,3,E00548
+E00055,R001,ML/AI Engineer,Engineering,1,73839,5.1,1,E00524
+E00056,R001,ML/AI Engineer,Engineering,2,106561,1.8,2,E00523
+E00057,R001,ML/AI Engineer,Engineering,2,104867,2.9,2,E00518
+E00058,R001,ML/AI Engineer,Engineering,1,71630,4.6,3,E00574
+E00059,R001,ML/AI Engineer,Engineering,1,82811,1.5,2,E00569
+E00060,R001,ML/AI Engineer,Engineering,3,117844,2.6,2,E00585
+E00061,R001,ML/AI Engineer,Engineering,3,145336,1.9,4,E00575
+E00062,R001,ML/AI Engineer,Engineering,2,99384,2.8,1,E00514
+E00063,R001,ML/AI Engineer,Engineering,1,74620,7.3,3,E00561
+E00064,R001,ML/AI Engineer,Engineering,2,102969,6.9,3,E00565
+E00065,R001,ML/AI Engineer,Engineering,1,71099,5.4,5,E00567
+E00066,R001,ML/AI Engineer,Engineering,3,142984,2.9,3,E00530
+E00067,R001,ML/AI Engineer,Engineering,2,94944,2.2,5,E00560
+E00068,R001,ML/AI Engineer,Engineering,1,73689,1.9,2,E00564
+E00069,R001,ML/AI Engineer,Engineering,3,130164,1.2,2,E00576
+E00070,R001,ML/AI Engineer,Engineering,1,80847,0.9,3,E00507
+E00071,R001,ML/AI Engineer,Engineering,1,70591,4.8,4,E00508
+E00072,R001,ML/AI Engineer,Engineering,3,141613,1.1,4,E00530
+E00073,R001,ML/AI Engineer,Engineering,1,73571,7.1,3,E00580
+E00074,R001,ML/AI Engineer,Engineering,1,73536,5.4,3,E00526
+E00075,R001,ML/AI Engineer,Engineering,1,75176,0.1,2,E00516
+E00076,R001,ML/AI Engineer,Engineering,2,101835,1.1,4,E00550
+E00077,R001,ML/AI Engineer,Engineering,3,123848,1.6,2,E00515
+E00078,R001,ML/AI Engineer,Engineering,1,88327,0.1,4,E00518
+E00079,R001,ML/AI Engineer,Engineering,1,81377,2.1,3,E00552
+E00080,R001,ML/AI Engineer,Engineering,1,87210,2.9,3,E00533
+E00081,R001,ML/AI Engineer,Engineering,2,102018,1.7,5,E00537
+E00082,R001,ML/AI Engineer,Engineering,1,80724,0.7,3,E00518
+E00083,R002,Senior Backend/Platform Engineer,Engineering,3,123529,5.5,3,E00562
+E00084,R002,Senior Backend/Platform Engineer,Engineering,2,95766,2.0,4,E00536
+E00085,R002,Senior Backend/Platform Engineer,Engineering,2,114607,1.0,3,E00513
+E00086,R002,Senior Backend/Platform Engineer,Engineering,2,91660,6.5,2,E00549
+E00087,R002,Senior Backend/Platform Engineer,Engineering,3,139514,0.7,3,E00567
+E00088,R002,Senior Backend/Platform Engineer,Engineering,2,107037,0.4,2,E00532
+E00089,R002,Senior Backend/Platform Engineer,Engineering,1,86881,1.9,4,E00554
+E00090,R002,Senior Backend/Platform Engineer,Engineering,3,147783,7.6,3,E00536
+E00091,R002,Senior Backend/Platform Engineer,Engineering,3,131154,6.2,2,E00556
+E00092,R002,Senior Backend/Platform Engineer,Engineering,1,84057,6.2,4,E00509
+E00093,R002,Senior Backend/Platform Engineer,Engineering,2,100424,3.9,2,E00547
+E00094,R002,Senior Backend/Platform Engineer,Engineering,2,95226,0.0,2,E00537
+E00095,R002,Senior Backend/Platform Engineer,Engineering,1,71099,4.2,2,E00584
+E00096,R002,Senior Backend/Platform Engineer,Engineering,2,108011,3.0,2,E00513
+E00097,R002,Senior Backend/Platform Engineer,Engineering,2,92970,4.1,3,E00569
+E00098,R002,Senior Backend/Platform Engineer,Engineering,1,82622,1.6,4,E00567
+E00099,R002,Senior Backend/Platform Engineer,Engineering,2,110880,3.1,4,E00526
+E00100,R002,Senior Backend/Platform Engineer,Engineering,2,108757,2.2,3,E00514
+E00101,R002,Senior Backend/Platform Engineer,Engineering,2,100428,5.2,4,E00553
+E00102,R002,Senior Backend/Platform Engineer,Engineering,1,78122,2.2,3,E00563
+E00103,R002,Senior Backend/Platform Engineer,Engineering,1,73152,2.7,4,E00585
+E00104,R002,Senior Backend/Platform Engineer,Engineering,1,86537,2.1,3,E00523
+E00105,R002,Senior Backend/Platform Engineer,Engineering,3,125017,10.5,2,E00502
+E00106,R002,Senior Backend/Platform Engineer,Engineering,2,104489,7.6,4,E00518
+E00107,R002,Senior Backend/Platform Engineer,Engineering,1,74955,3.6,5,E00563
+E00108,R002,Senior Backend/Platform Engineer,Engineering,3,130076,1.4,3,E00534
+E00109,R002,Senior Backend/Platform Engineer,Engineering,3,125878,12.0,2,E00508
+E00110,R002,Senior Backend/Platform Engineer,Engineering,1,79877,1.6,2,E00567
+E00111,R002,Senior Backend/Platform Engineer,Engineering,2,110254,2.9,4,E00546
+E00112,R002,Senior Backend/Platform Engineer,Engineering,1,85358,2.0,3,E00562
+E00113,R002,Senior Backend/Platform Engineer,Engineering,1,73609,1.5,3,E00577
+E00114,R002,Senior Backend/Platform Engineer,Engineering,2,108321,2.0,3,E00532
+E00115,R002,Senior Backend/Platform Engineer,Engineering,2,112260,1.1,3,E00558
+E00116,R002,Senior Backend/Platform Engineer,Engineering,1,75162,6.4,2,E00540
+E00117,R002,Senior Backend/Platform Engineer,Engineering,1,77927,6.8,2,E00510
+E00118,R002,Senior Backend/Platform Engineer,Engineering,1,71349,0.3,3,E00568
+E00119,R002,Senior Backend/Platform Engineer,Engineering,2,109181,1.4,3,E00578
+E00120,R002,Senior Backend/Platform Engineer,Engineering,2,113080,1.7,2,E00515
+E00121,R002,Senior Backend/Platform Engineer,Engineering,2,91731,3.0,3,E00571
+E00122,R002,Senior Backend/Platform Engineer,Engineering,1,72834,0.8,2,E00554
+E00123,R002,Senior Backend/Platform Engineer,Engineering,1,70269,1.4,3,E00548
+E00124,R002,Senior Backend/Platform Engineer,Engineering,2,94593,1.6,3,E00514
+E00125,R002,Senior Backend/Platform Engineer,Engineering,1,78997,1.5,3,E00552
+E00126,R002,Senior Backend/Platform Engineer,Engineering,1,82343,7.1,4,E00546
+E00127,R002,Senior Backend/Platform Engineer,Engineering,1,70533,4.8,4,E00516
+E00128,R002,Senior Backend/Platform Engineer,Engineering,3,138216,1.6,4,E00561
+E00129,R002,Senior Backend/Platform Engineer,Engineering,1,87081,3.1,2,E00535
+E00130,R002,Senior Backend/Platform Engineer,Engineering,2,110774,1.3,3,E00536
+E00131,R002,Senior Backend/Platform Engineer,Engineering,2,109184,3.6,2,E00532
+E00132,R002,Senior Backend/Platform Engineer,Engineering,2,98393,2.4,3,E00580
+E00133,R002,Senior Backend/Platform Engineer,Engineering,1,80563,0.6,4,E00544
+E00134,R002,Senior Backend/Platform Engineer,Engineering,1,71550,0.6,2,E00538
+E00135,R002,Senior Backend/Platform Engineer,Engineering,3,121511,0.0,1,E00524
+E00136,R002,Senior Backend/Platform Engineer,Engineering,1,78065,3.7,1,E00567
+E00137,R002,Senior Backend/Platform Engineer,Engineering,1,85184,3.0,3,E00546
+E00138,R002,Senior Backend/Platform Engineer,Engineering,3,147873,0.6,4,E00506
+E00139,R002,Senior Backend/Platform Engineer,Engineering,2,93776,0.8,3,E00517
+E00140,R002,Senior Backend/Platform Engineer,Engineering,2,111166,2.2,4,E00535
+E00141,R002,Senior Backend/Platform Engineer,Engineering,3,147264,1.5,4,E00527
+E00142,R002,Senior Backend/Platform Engineer,Engineering,1,75859,1.1,3,E00576
+E00143,R002,Senior Backend/Platform Engineer,Engineering,1,76515,2.5,2,E00515
+E00144,R002,Senior Backend/Platform Engineer,Engineering,1,89259,5.7,4,E00571
+E00145,R002,Senior Backend/Platform Engineer,Engineering,1,82018,0.9,3,E00522
+E00146,R002,Senior Backend/Platform Engineer,Engineering,1,76110,1.0,3,E00551
+E00147,R002,Senior Backend/Platform Engineer,Engineering,2,112265,2.6,3,E00510
+E00148,R002,Senior Backend/Platform Engineer,Engineering,1,88451,1.2,4,E00543
+E00149,R002,Senior Backend/Platform Engineer,Engineering,3,127191,2.2,5,E00524
+E00150,R002,Senior Backend/Platform Engineer,Engineering,1,71331,1.8,3,E00561
+E00151,R002,Senior Backend/Platform Engineer,Engineering,1,77661,7.3,1,E00571
+E00152,R002,Senior Backend/Platform Engineer,Engineering,3,124272,1.8,3,E00531
+E00153,R002,Senior Backend/Platform Engineer,Engineering,1,73555,2.4,2,E00544
+E00154,R002,Senior Backend/Platform Engineer,Engineering,2,92047,2.5,3,E00556
+E00155,R002,Senior Backend/Platform Engineer,Engineering,2,91782,2.3,2,E00525
+E00156,R002,Senior Backend/Platform Engineer,Engineering,2,110070,2.1,4,E00511
+E00157,R002,Senior Backend/Platform Engineer,Engineering,1,86516,1.3,3,E00559
+E00158,R002,Senior Backend/Platform Engineer,Engineering,1,80899,5.3,2,E00571
+E00159,R002,Senior Backend/Platform Engineer,Engineering,1,86594,3.3,1,E00574
+E00160,R002,Senior Backend/Platform Engineer,Engineering,3,143626,3.8,4,E00538
+E00161,R002,Senior Backend/Platform Engineer,Engineering,1,79841,3.0,3,E00525
+E00162,R002,Senior Backend/Platform Engineer,Engineering,2,101738,1.4,4,E00581
+E00163,R002,Senior Backend/Platform Engineer,Engineering,1,87601,3.9,1,E00573
+E00164,R002,Senior Backend/Platform Engineer,Engineering,3,127376,2.6,3,E00570
+E00165,R003,Software Engineer (general),Engineering,3,134138,3.8,3,E00519
+E00166,R003,Software Engineer (general),Engineering,1,73246,0.3,3,E00559
+E00167,R003,Software Engineer (general),Engineering,1,88956,3.1,4,E00540
+E00168,R003,Software Engineer (general),Engineering,1,72602,0.3,3,E00578
+E00169,R003,Software Engineer (general),Engineering,1,74293,1.3,3,E00584
+E00170,R003,Software Engineer (general),Engineering,3,129159,0.6,3,E00514
+E00171,R003,Software Engineer (general),Engineering,1,89427,5.4,3,E00568
+E00172,R003,Software Engineer (general),Engineering,2,100947,1.4,4,E00527
+E00173,R003,Software Engineer (general),Engineering,2,95280,2.5,2,E00502
+E00174,R003,Software Engineer (general),Engineering,1,72577,11.8,3,E00557
+E00175,R003,Software Engineer (general),Engineering,2,111744,3.3,3,E00558
+E00176,R003,Software Engineer (general),Engineering,2,91676,3.4,3,E00537
+E00177,R003,Software Engineer (general),Engineering,3,127953,7.5,4,E00528
+E00178,R003,Software Engineer (general),Engineering,1,78222,2.3,2,E00505
+E00179,R003,Software Engineer (general),Engineering,1,78002,2.1,3,E00562
+E00180,R003,Software Engineer (general),Engineering,2,113506,2.6,3,E00521
+E00181,R003,Software Engineer (general),Engineering,1,73014,7.0,3,E00582
+E00182,R003,Software Engineer (general),Engineering,3,117136,2.0,3,E00561
+E00183,R003,Software Engineer (general),Engineering,1,80462,0.9,3,E00569
+E00184,R003,Software Engineer (general),Engineering,1,85214,0.3,3,E00528
+E00185,R003,Software Engineer (general),Engineering,1,79771,0.2,3,E00513
+E00186,R003,Software Engineer (general),Engineering,1,82721,0.3,2,E00504
+E00187,R003,Software Engineer (general),Engineering,1,74567,0.3,3,E00574
+E00188,R003,Software Engineer (general),Engineering,1,84132,0.5,3,E00553
+E00189,R003,Software Engineer (general),Engineering,2,91155,4.0,3,E00568
+E00190,R003,Software Engineer (general),Engineering,2,114766,1.4,3,E00570
+E00191,R003,Software Engineer (general),Engineering,1,77692,0.7,2,E00543
+E00192,R003,Software Engineer (general),Engineering,1,70704,0.5,4,E00570
+E00193,R003,Software Engineer (general),Engineering,1,88166,3.1,4,E00530
+E00194,R003,Software Engineer (general),Engineering,3,122171,2.7,3,E00576
+E00195,R003,Software Engineer (general),Engineering,1,78423,0.6,3,E00575
+E00196,R003,Software Engineer (general),Engineering,2,90698,0.1,3,E00534
+E00197,R003,Software Engineer (general),Engineering,1,80466,0.6,3,E00526
+E00198,R003,Software Engineer (general),Engineering,2,98325,6.4,3,E00503
+E00199,R003,Software Engineer (general),Engineering,2,108330,1.6,3,E00569
+E00200,R003,Software Engineer (general),Engineering,1,89045,3.9,3,E00562
+E00201,R003,Software Engineer (general),Engineering,2,110146,5.5,2,E00519
+E00202,R003,Software Engineer (general),Engineering,1,86243,2.0,5,E00582
+E00203,R003,Software Engineer (general),Engineering,3,149405,1.9,3,E00528
+E00204,R003,Software Engineer (general),Engineering,1,78051,1.6,3,E00542
+E00205,R003,Software Engineer (general),Engineering,3,145771,0.7,3,E00539
+E00206,R003,Software Engineer (general),Engineering,2,112417,0.0,2,E00577
+E00207,R003,Software Engineer (general),Engineering,2,108234,3.1,4,E00569
+E00208,R003,Software Engineer (general),Engineering,3,116907,4.2,3,E00512
+E00209,R003,Software Engineer (general),Engineering,1,83747,1.5,3,E00502
+E00210,R003,Software Engineer (general),Engineering,1,86681,9.0,2,E00552
+E00211,R003,Software Engineer (general),Engineering,1,76201,3.5,3,E00535
+E00212,R003,Software Engineer (general),Engineering,1,79422,3.4,3,E00550
+E00213,R003,Software Engineer (general),Engineering,1,85374,2.2,3,E00522
+E00214,R003,Software Engineer (general),Engineering,2,103502,2.0,4,E00555
+E00215,R003,Software Engineer (general),Engineering,2,108211,3.5,3,E00566
+E00216,R003,Software Engineer (general),Engineering,1,79308,8.0,2,E00520
+E00217,R003,Software Engineer (general),Engineering,3,135791,5.0,3,E00545
+E00218,R003,Software Engineer (general),Engineering,1,71086,0.1,4,E00541
+E00219,R003,Software Engineer (general),Engineering,1,81594,2.4,3,E00555
+E00220,R003,Software Engineer (general),Engineering,3,138429,1.6,2,E00549
+E00221,R003,Software Engineer (general),Engineering,3,124580,1.9,4,E00575
+E00222,R003,Software Engineer (general),Engineering,2,111947,1.9,3,E00582
+E00223,R003,Software Engineer (general),Engineering,3,146629,0.4,3,E00582
+E00224,R003,Software Engineer (general),Engineering,1,88448,2.9,3,E00545
+E00225,R003,Software Engineer (general),Engineering,1,83847,0.5,3,E00559
+E00226,R003,Software Engineer (general),Engineering,2,95140,5.4,4,E00529
+E00227,R003,Software Engineer (general),Engineering,1,82395,0.7,3,E00572
+E00228,R003,Software Engineer (general),Engineering,2,112361,1.9,2,E00580
+E00229,R003,Software Engineer (general),Engineering,1,84045,12.0,3,E00560
+E00230,R003,Software Engineer (general),Engineering,1,76017,0.5,2,E00533
+E00231,R003,Software Engineer (general),Engineering,1,81339,4.1,2,E00582
+E00232,R003,Software Engineer (general),Engineering,1,72173,2.3,3,E00581
+E00233,R003,Software Engineer (general),Engineering,3,131424,1.8,3,E00555
+E00234,R003,Software Engineer (general),Engineering,2,99751,4.1,4,E00526
+E00235,R003,Software Engineer (general),Engineering,2,109285,4.7,2,E00534
+E00236,R003,Software Engineer (general),Engineering,2,100594,5.7,4,E00560
+E00237,R003,Software Engineer (general),Engineering,2,94545,2.4,4,E00536
+E00238,R003,Software Engineer (general),Engineering,2,101622,1.2,4,E00584
+E00239,R003,Software Engineer (general),Engineering,1,71891,3.0,2,E00553
+E00240,R003,Software Engineer (general),Engineering,1,89891,1.4,4,E00557
+E00241,R003,Software Engineer (general),Engineering,1,87687,8.0,2,E00504
+E00242,R003,Software Engineer (general),Engineering,2,105055,0.0,4,E00575
+E00243,R003,Software Engineer (general),Engineering,1,78733,1.5,3,E00563
+E00244,R003,Software Engineer (general),Engineering,1,87397,12.0,2,E00551
+E00245,R003,Software Engineer (general),Engineering,2,104669,0.5,2,E00559
+E00246,R003,Software Engineer (general),Engineering,2,101229,4.1,3,E00565
+E00247,R003,Software Engineer (general),Engineering,2,95957,8.1,5,E00579
+E00248,R003,Software Engineer (general),Engineering,3,149429,2.8,3,E00584
+E00249,R003,Software Engineer (general),Engineering,3,130872,8.6,3,E00550
+E00250,R003,Software Engineer (general),Engineering,1,71145,1.5,2,E00519
+E00251,R003,Software Engineer (general),Engineering,1,79653,10.1,3,E00517
+E00252,R003,Software Engineer (general),Engineering,2,94836,5.8,3,E00508
+E00253,R003,Software Engineer (general),Engineering,1,71872,7.8,3,E00531
+E00254,R003,Software Engineer (general),Engineering,1,79246,4.1,4,E00531
+E00255,R003,Software Engineer (general),Engineering,3,133140,9.1,3,E00503
+E00256,R003,Software Engineer (general),Engineering,2,98452,2.6,2,E00556
+E00257,R003,Software Engineer (general),Engineering,3,133487,3.5,4,E00507
+E00258,R003,Software Engineer (general),Engineering,3,124887,0.7,3,E00555
+E00259,R003,Software Engineer (general),Engineering,2,97553,4.5,2,E00559
+E00260,R003,Software Engineer (general),Engineering,1,71318,2.9,2,E00550
+E00261,R003,Software Engineer (general),Engineering,1,71184,1.0,3,E00549
+E00262,R003,Software Engineer (general),Engineering,2,106006,3.8,3,E00509
+E00263,R003,Software Engineer (general),Engineering,2,99352,3.2,3,E00578
+E00264,R003,Software Engineer (general),Engineering,1,88288,1.8,2,E00529
+E00265,R003,Software Engineer (general),Engineering,1,72963,0.6,3,E00516
+E00266,R003,Software Engineer (general),Engineering,3,139916,1.2,3,E00571
+E00267,R003,Software Engineer (general),Engineering,3,126968,0.2,3,E00563
+E00268,R003,Software Engineer (general),Engineering,3,141731,0.7,4,E00521
+E00269,R003,Software Engineer (general),Engineering,1,89861,7.3,3,E00506
+E00270,R003,Software Engineer (general),Engineering,3,118466,12.4,3,E00585
+E00271,R003,Software Engineer (general),Engineering,1,77511,2.5,2,E00573
+E00272,R003,Software Engineer (general),Engineering,1,89989,3.7,3,E00549
+E00273,R003,Software Engineer (general),Engineering,3,115589,3.8,3,E00507
+E00274,R003,Software Engineer (general),Engineering,1,81962,1.8,3,E00554
+E00275,R003,Software Engineer (general),Engineering,2,111504,8.8,4,E00573
+E00276,R003,Software Engineer (general),Engineering,3,138009,1.8,4,E00541
+E00277,R003,Software Engineer (general),Engineering,3,141860,1.8,3,E00522
+E00278,R003,Software Engineer (general),Engineering,3,121004,4.3,4,E00515
+E00279,R003,Software Engineer (general),Engineering,2,108867,0.1,3,E00584
+E00280,R003,Software Engineer (general),Engineering,2,114313,1.4,4,E00553
+E00281,R003,Software Engineer (general),Engineering,2,106649,0.7,3,E00583
+E00282,R003,Software Engineer (general),Engineering,1,77848,2.1,2,E00565
+E00283,R003,Software Engineer (general),Engineering,1,78856,1.4,4,E00572
+E00284,R003,Software Engineer (general),Engineering,1,78804,1.4,3,E00533
+E00285,R003,Software Engineer (general),Engineering,2,104651,1.9,3,E00519
+E00286,R003,Software Engineer (general),Engineering,3,130524,10.8,3,E00527
+E00287,R003,Software Engineer (general),Engineering,3,138865,2.7,3,E00533
+E00288,R003,Software Engineer (general),Engineering,2,98156,1.9,3,E00523
+E00289,R003,Software Engineer (general),Engineering,3,126635,1.0,4,E00516
+E00290,R003,Software Engineer (general),Engineering,2,106642,5.8,3,E00547
+E00291,R003,Software Engineer (general),Engineering,1,86278,2.3,2,E00525
+E00292,R003,Software Engineer (general),Engineering,1,84518,5.5,4,E00542
+E00293,R003,Software Engineer (general),Engineering,3,115165,1.5,4,E00540
+E00294,R003,Software Engineer (general),Engineering,2,91428,4.8,3,E00517
+E00295,R003,Software Engineer (general),Engineering,2,114026,4.2,4,E00580
+E00296,R003,Software Engineer (general),Engineering,2,99602,1.9,2,E00504
+E00297,R003,Software Engineer (general),Engineering,1,72328,0.5,3,E00579
+E00298,R003,Software Engineer (general),Engineering,1,77716,1.1,3,E00542
+E00299,R003,Software Engineer (general),Engineering,3,125247,3.3,3,E00581
+E00300,R003,Software Engineer (general),Engineering,1,72449,1.1,4,E00570
+E00301,R003,Software Engineer (general),Engineering,1,85430,0.9,3,E00524
+E00302,R003,Software Engineer (general),Engineering,1,85815,11.1,3,E00535
+E00303,R003,Software Engineer (general),Engineering,1,71938,6.9,2,E00506
+E00304,R003,Software Engineer (general),Engineering,2,110488,1.2,2,E00541
+E00305,R003,Software Engineer (general),Engineering,3,149053,0.9,4,E00574
+E00306,R003,Software Engineer (general),Engineering,1,76037,15.0,3,E00518
+E00307,R003,Software Engineer (general),Engineering,2,95617,0.5,3,E00546
+E00308,R003,Software Engineer (general),Engineering,1,79286,0.3,2,E00583
+E00309,R003,Software Engineer (general),Engineering,3,135980,2.0,3,E00543
+E00310,R003,Software Engineer (general),Engineering,1,86345,9.3,5,E00513
+E00311,R003,Software Engineer (general),Engineering,2,104875,3.4,3,E00565
+E00312,R003,Software Engineer (general),Engineering,1,86601,1.8,2,E00573
+E00313,R003,Software Engineer (general),Engineering,1,89887,5.5,4,E00558
+E00314,R003,Software Engineer (general),Engineering,3,129753,1.4,2,E00509
+E00315,R003,Software Engineer (general),Engineering,1,70703,0.7,2,E00579
+E00316,R003,Software Engineer (general),Engineering,2,113759,5.4,4,E00556
+E00317,R003,Software Engineer (general),Engineering,2,108725,2.4,4,E00575
+E00318,R003,Software Engineer (general),Engineering,1,73895,1.5,3,E00570
+E00319,R003,Software Engineer (general),Engineering,3,144091,3.8,2,E00504
+E00320,R003,Software Engineer (general),Engineering,1,87067,0.4,3,E00568
+E00321,R003,Software Engineer (general),Engineering,3,134315,0.7,3,E00562
+E00322,R003,Software Engineer (general),Engineering,1,80725,3.1,3,E00564
+E00323,R003,Software Engineer (general),Engineering,1,84697,7.9,3,E00553
+E00324,R003,Software Engineer (general),Engineering,1,83043,4.9,3,E00545
+E00325,R003,Software Engineer (general),Engineering,2,96074,3.7,3,E00503
+E00326,R003,Software Engineer (general),Engineering,2,106900,0.6,3,E00506
+E00327,R003,Software Engineer (general),Engineering,1,78704,7.5,3,E00509
+E00328,R003,Software Engineer (general),Engineering,1,89195,3.4,3,E00566
+E00329,R003,Software Engineer (general),Engineering,1,70049,0.1,4,E00506
+E00330,R003,Software Engineer (general),Engineering,2,109280,6.4,2,E00541
+E00331,R003,Software Engineer (general),Engineering,1,76630,1.1,2,E00530
+E00332,R003,Software Engineer (general),Engineering,2,97724,0.5,3,E00582
+E00333,R003,Software Engineer (general),Engineering,3,127516,0.8,3,E00515
+E00334,R003,Software Engineer (general),Engineering,3,135822,0.6,3,E00512
+E00335,R003,Software Engineer (general),Engineering,1,82302,3.2,2,E00583
+E00336,R003,Software Engineer (general),Engineering,1,87024,3.5,3,E00544
+E00337,R003,Software Engineer (general),Engineering,1,74391,5.7,3,E00575
+E00338,R003,Software Engineer (general),Engineering,3,137317,2.6,3,E00511
+E00339,R003,Software Engineer (general),Engineering,1,89387,0.2,4,E00572
+E00340,R003,Software Engineer (general),Engineering,1,74734,0.3,3,E00548
+E00341,R003,Software Engineer (general),Engineering,1,73893,3.8,3,E00565
+E00342,R003,Software Engineer (general),Engineering,1,72068,5.2,4,E00558
+E00343,R003,Software Engineer (general),Engineering,3,137656,0.4,3,E00539
+E00344,R003,Software Engineer (general),Engineering,2,98046,6.9,5,E00564
+E00345,R003,Software Engineer (general),Engineering,2,108960,4.0,4,E00502
+E00346,R003,Software Engineer (general),Engineering,1,86846,7.2,3,E00508
+E00347,R003,Software Engineer (general),Engineering,1,82557,0.9,2,E00549
+E00348,R003,Software Engineer (general),Engineering,3,128428,10.5,3,E00515
+E00349,R003,Software Engineer (general),Engineering,1,71335,12.4,4,E00544
+E00350,R003,Software Engineer (general),Engineering,1,70053,1.6,3,E00522
+E00351,R003,Software Engineer (general),Engineering,1,71768,1.9,4,E00538
+E00352,R003,Software Engineer (general),Engineering,1,87930,0.8,3,E00528
+E00353,R003,Software Engineer (general),Engineering,1,82133,2.0,2,E00527
+E00354,R003,Software Engineer (general),Engineering,1,74316,4.2,3,E00557
+E00355,R003,Software Engineer (general),Engineering,1,84656,1.6,3,E00557
+E00356,R004,SRE/DevOps Engineer,Engineering,2,99421,1.0,3,E00552
+E00357,R004,SRE/DevOps Engineer,Engineering,2,101049,7.8,3,E00511
+E00358,R004,SRE/DevOps Engineer,Engineering,1,86982,5.3,3,E00543
+E00359,R004,SRE/DevOps Engineer,Engineering,1,77907,0.1,2,E00566
+E00360,R004,SRE/DevOps Engineer,Engineering,2,99923,0.6,2,E00503
+E00361,R004,SRE/DevOps Engineer,Engineering,1,85831,1.3,3,E00541
+E00362,R004,SRE/DevOps Engineer,Engineering,2,94834,1.2,3,E00537
+E00363,R004,SRE/DevOps Engineer,Engineering,2,109932,3.8,2,E00540
+E00364,R004,SRE/DevOps Engineer,Engineering,1,74927,2.4,3,E00562
+E00365,R004,SRE/DevOps Engineer,Engineering,1,83156,3.4,3,E00579
+E00366,R004,SRE/DevOps Engineer,Engineering,1,80352,2.7,3,E00525
+E00367,R004,SRE/DevOps Engineer,Engineering,1,84811,3.2,3,E00520
+E00368,R004,SRE/DevOps Engineer,Engineering,1,70248,0.1,2,E00532
+E00369,R004,SRE/DevOps Engineer,Engineering,1,73059,0.6,3,E00531
+E00370,R004,SRE/DevOps Engineer,Engineering,2,100450,13.3,3,E00560
+E00371,R004,SRE/DevOps Engineer,Engineering,1,71339,1.2,3,E00524
+E00372,R004,SRE/DevOps Engineer,Engineering,3,133011,0.3,3,E00580
+E00373,R004,SRE/DevOps Engineer,Engineering,3,147242,0.6,3,E00531
+E00374,R004,SRE/DevOps Engineer,Engineering,1,74550,2.6,2,E00503
+E00375,R004,SRE/DevOps Engineer,Engineering,1,79578,0.8,2,E00538
+E00376,R004,SRE/DevOps Engineer,Engineering,1,87635,0.1,4,E00540
+E00377,R004,SRE/DevOps Engineer,Engineering,2,96244,2.6,2,E00529
+E00378,R004,SRE/DevOps Engineer,Engineering,2,109534,3.1,3,E00504
+E00379,R004,SRE/DevOps Engineer,Engineering,1,88835,4.9,3,E00571
+E00380,R004,SRE/DevOps Engineer,Engineering,2,96204,5.9,2,E00535
+E00381,R004,SRE/DevOps Engineer,Engineering,2,109847,2.1,3,E00517
+E00382,R004,SRE/DevOps Engineer,Engineering,1,83487,3.6,3,E00568
+E00383,R004,SRE/DevOps Engineer,Engineering,2,113722,1.7,3,E00547
+E00384,R004,SRE/DevOps Engineer,Engineering,2,104739,0.6,4,E00523
+E00385,R004,SRE/DevOps Engineer,Engineering,1,83656,14.0,4,E00511
+E00386,R004,SRE/DevOps Engineer,Engineering,1,87712,0.4,3,E00540
+E00387,R004,SRE/DevOps Engineer,Engineering,3,117477,3.0,3,E00545
+E00388,R004,SRE/DevOps Engineer,Engineering,2,90204,0.7,4,E00541
+E00389,R004,SRE/DevOps Engineer,Engineering,1,76523,9.4,2,E00528
+E00390,R004,SRE/DevOps Engineer,Engineering,3,144455,2.5,3,E00544
+E00391,R004,SRE/DevOps Engineer,Engineering,3,144222,0.3,3,E00502
+E00392,R004,SRE/DevOps Engineer,Engineering,1,76946,2.2,3,E00551
+E00393,R004,SRE/DevOps Engineer,Engineering,1,70024,0.3,2,E00563
+E00394,R004,SRE/DevOps Engineer,Engineering,1,73925,3.2,3,E00510
+E00395,R004,SRE/DevOps Engineer,Engineering,1,76404,0.6,2,E00556
+E00396,R004,SRE/DevOps Engineer,Engineering,1,86424,6.1,3,E00525
+E00397,R004,SRE/DevOps Engineer,Engineering,1,81183,1.1,3,E00559
+E00398,R004,SRE/DevOps Engineer,Engineering,3,128445,0.7,3,E00568
+E00399,R004,SRE/DevOps Engineer,Engineering,2,90936,0.3,4,E00573
+E00400,R004,SRE/DevOps Engineer,Engineering,2,97019,2.4,2,E00510
+E00401,R004,SRE/DevOps Engineer,Engineering,1,71226,2.0,2,E00579
+E00402,R004,SRE/DevOps Engineer,Engineering,2,108333,2.3,3,E00561
+E00403,R004,SRE/DevOps Engineer,Engineering,1,77272,3.6,3,E00512
+E00404,R004,SRE/DevOps Engineer,Engineering,1,71670,8.0,3,E00537
+E00405,R004,SRE/DevOps Engineer,Engineering,3,136034,2.6,4,E00576
+E00406,R004,SRE/DevOps Engineer,Engineering,3,146298,2.1,3,E00503
+E00407,R004,SRE/DevOps Engineer,Engineering,2,109947,3.7,3,E00564
+E00408,R004,SRE/DevOps Engineer,Engineering,1,87931,1.9,3,E00556
+E00409,R004,SRE/DevOps Engineer,Engineering,1,78122,3.5,3,E00511
+E00410,R004,SRE/DevOps Engineer,Engineering,2,114787,0.2,3,E00580
+E00411,R004,SRE/DevOps Engineer,Engineering,2,90223,2.5,3,E00560
+E00412,R004,SRE/DevOps Engineer,Engineering,2,110681,9.7,3,E00516
+E00413,R004,SRE/DevOps Engineer,Engineering,3,126047,3.9,3,E00531
+E00414,R004,SRE/DevOps Engineer,Engineering,1,77101,1.2,3,E00513
+E00415,R004,SRE/DevOps Engineer,Engineering,1,86923,0.9,3,E00547
+E00416,R004,SRE/DevOps Engineer,Engineering,2,104205,3.4,3,E00529
+E00417,R004,SRE/DevOps Engineer,Engineering,3,149967,1.8,3,E00522
+E00418,R004,SRE/DevOps Engineer,Engineering,3,124359,4.3,3,E00505
+E00419,R004,SRE/DevOps Engineer,Engineering,3,117080,10.9,3,E00527
+E00420,R004,SRE/DevOps Engineer,Engineering,2,105766,4.6,4,E00546
+E00421,R004,SRE/DevOps Engineer,Engineering,1,78650,2.9,3,E00555
+E00422,R004,SRE/DevOps Engineer,Engineering,2,104290,7.2,3,E00514
+E00423,R004,SRE/DevOps Engineer,Engineering,2,102080,2.0,3,E00547
+E00424,R004,SRE/DevOps Engineer,Engineering,1,85036,0.7,4,E00542
+E00425,R004,SRE/DevOps Engineer,Engineering,1,88899,1.4,3,E00549
+E00426,R004,SRE/DevOps Engineer,Engineering,2,110577,2.2,3,E00566
+E00427,R004,SRE/DevOps Engineer,Engineering,2,107302,5.9,3,E00517
+E00428,R004,SRE/DevOps Engineer,Engineering,2,105875,4.3,3,E00530
+E00429,R004,SRE/DevOps Engineer,Engineering,2,112048,2.4,3,E00583
+E00430,R004,SRE/DevOps Engineer,Engineering,2,97639,8.1,3,E00510
+E00431,R004,SRE/DevOps Engineer,Engineering,3,128029,8.4,4,E00520
+E00432,R004,SRE/DevOps Engineer,Engineering,1,88245,1.8,4,E00534
+E00433,R004,SRE/DevOps Engineer,Engineering,1,85636,0.2,2,E00508
+E00434,R004,SRE/DevOps Engineer,Engineering,2,99515,4.7,3,E00554
+E00435,R004,SRE/DevOps Engineer,Engineering,3,142690,3.5,3,E00502
+E00436,R004,SRE/DevOps Engineer,Engineering,3,130556,11.8,3,E00578
+E00437,R004,SRE/DevOps Engineer,Engineering,1,72829,0.2,3,E00551
+E00438,R005,QA/Test Engineer,Engineering,1,86621,3.9,3,E00505
+E00439,R005,QA/Test Engineer,Engineering,2,111878,7.6,4,E00581
+E00440,R005,QA/Test Engineer,Engineering,3,139608,0.9,4,E00583
+E00441,R005,QA/Test Engineer,Engineering,2,100339,3.4,3,E00520
+E00442,R005,QA/Test Engineer,Engineering,2,113554,1.1,2,E00574
+E00443,R005,QA/Test Engineer,Engineering,1,77161,2.7,4,E00522
+E00444,R005,QA/Test Engineer,Engineering,3,142395,2.1,4,E00558
+E00445,R005,QA/Test Engineer,Engineering,2,93018,2.1,3,E00577
+E00446,R005,QA/Test Engineer,Engineering,2,110452,2.2,3,E00578
+E00447,R005,QA/Test Engineer,Engineering,2,105796,0.7,3,E00551
+E00448,R005,QA/Test Engineer,Engineering,3,124187,2.3,2,E00504
+E00449,R005,QA/Test Engineer,Engineering,1,88980,2.6,3,E00552
+E00450,R005,QA/Test Engineer,Engineering,3,129081,1.2,2,E00526
+E00451,R005,QA/Test Engineer,Engineering,1,89596,6.8,3,E00521
+E00452,R005,QA/Test Engineer,Engineering,2,98083,0.0,4,E00552
+E00453,R005,QA/Test Engineer,Engineering,2,93957,6.9,4,E00529
+E00454,R005,QA/Test Engineer,Engineering,1,76270,6.6,3,E00512
+E00455,R005,QA/Test Engineer,Engineering,2,95644,2.3,4,E00518
+E00456,R005,QA/Test Engineer,Engineering,1,80005,3.5,3,E00537
+E00457,R005,QA/Test Engineer,Engineering,1,83491,0.9,3,E00539
+E00458,R005,QA/Test Engineer,Engineering,1,72288,1.3,3,E00505
+E00459,R005,QA/Test Engineer,Engineering,2,95156,0.0,3,E00566
+E00460,R005,QA/Test Engineer,Engineering,1,88673,4.1,3,E00551
+E00461,R005,QA/Test Engineer,Engineering,1,85300,11.6,3,E00510
+E00462,R005,QA/Test Engineer,Engineering,1,82458,13.1,3,E00528
+E00463,R005,QA/Test Engineer,Engineering,2,108403,0.0,2,E00564
+E00464,R005,QA/Test Engineer,Engineering,2,107289,2.7,3,E00567
+E00465,R005,QA/Test Engineer,Engineering,1,77637,12.9,2,E00506
+E00466,R005,QA/Test Engineer,Engineering,2,93029,1.9,2,E00542
+E00467,R005,QA/Test Engineer,Engineering,1,70304,1.1,4,E00512
+E00468,R005,QA/Test Engineer,Engineering,1,79934,0.4,3,E00573
+E00469,R005,QA/Test Engineer,Engineering,2,103178,2.6,3,E00577
+E00470,R005,QA/Test Engineer,Engineering,3,141249,4.0,4,E00539
+E00471,R005,QA/Test Engineer,Engineering,1,85864,4.2,3,E00521
+E00472,R005,QA/Test Engineer,Engineering,2,105666,0.2,3,E00509
+E00473,R005,QA/Test Engineer,Engineering,2,105591,1.1,4,E00553
+E00474,R005,QA/Test Engineer,Engineering,2,99374,3.4,3,E00546
+E00475,R005,QA/Test Engineer,Engineering,3,144079,6.7,3,E00543
+E00476,R005,QA/Test Engineer,Engineering,2,112398,1.1,3,E00505
+E00477,R005,QA/Test Engineer,Engineering,1,70573,3.3,3,E00519
+E00478,R005,QA/Test Engineer,Engineering,3,123491,3.1,3,E00516
+E00479,R005,QA/Test Engineer,Engineering,2,94297,0.6,3,E00550
+E00480,R005,QA/Test Engineer,Engineering,2,99067,3.1,4,E00570
+E00481,R005,QA/Test Engineer,Engineering,1,74663,15.0,4,E00577
+E00482,R005,QA/Test Engineer,Engineering,2,113498,5.3,3,E00576
+E00483,R005,QA/Test Engineer,Engineering,2,113213,4.0,3,E00521
+E00484,R005,QA/Test Engineer,Engineering,2,99176,0.5,3,E00547
+E00485,R005,QA/Test Engineer,Engineering,2,106848,0.4,4,E00520
+E00486,R005,QA/Test Engineer,Engineering,2,96994,0.1,2,E00513
+E00487,R005,QA/Test Engineer,Engineering,1,77164,9.5,4,E00527
+E00488,R005,QA/Test Engineer,Engineering,1,75879,13.9,3,E00532
+E00489,R005,QA/Test Engineer,Engineering,2,90212,15.0,2,E00585
+E00490,R005,QA/Test Engineer,Engineering,3,147301,7.0,4,E00505
+E00491,R005,QA/Test Engineer,Engineering,2,101221,2.4,2,E00557
+E00492,R005,QA/Test Engineer,Engineering,1,83926,0.8,3,E00529
+E00493,R005,QA/Test Engineer,Engineering,1,84913,6.5,3,E00533
+E00494,R005,QA/Test Engineer,Engineering,1,84550,3.5,2,E00509
+E00495,R005,QA/Test Engineer,Engineering,2,99616,5.8,4,E00523
+E00496,R005,QA/Test Engineer,Engineering,1,89409,7.6,3,E00585
+E00497,R005,QA/Test Engineer,Engineering,1,71454,0.3,3,E00563
+E00498,R005,QA/Test Engineer,Engineering,1,89648,0.8,3,E00534
+E00499,R005,QA/Test Engineer,Engineering,1,82081,0.4,4,E00521
+E00500,R005,QA/Test Engineer,Engineering,2,111257,4.3,3,E00511
+E00501,R005,QA/Test Engineer,Engineering,2,99044,4.4,4,E00550
+E00502,R006,Engineering Manager,Engineering,4,179799,0.6,2,E00590
+E00503,R006,Engineering Manager,Engineering,4,187994,0.0,3,E00595
+E00504,R006,Engineering Manager,Engineering,4,160507,1.1,3,E00599
+E00505,R006,Engineering Manager,Engineering,4,182750,2.8,3,E00591
+E00506,R006,Engineering Manager,Engineering,4,153822,7.9,3,E00587
+E00507,R006,Engineering Manager,Engineering,4,153632,3.6,3,E00599
+E00508,R006,Engineering Manager,Engineering,4,177280,0.8,2,E00587
+E00509,R006,Engineering Manager,Engineering,4,183652,3.7,3,E00596
+E00510,R006,Engineering Manager,Engineering,4,179383,0.1,2,E00593
+E00511,R006,Engineering Manager,Engineering,4,182706,0.8,3,E00588
+E00512,R006,Engineering Manager,Engineering,4,179586,0.8,3,E00598
+E00513,R006,Engineering Manager,Engineering,4,172343,3.4,3,E00594
+E00514,R006,Engineering Manager,Engineering,4,176019,0.9,3,E00586
+E00515,R006,Engineering Manager,Engineering,4,189710,3.7,3,E00595
+E00516,R006,Engineering Manager,Engineering,4,150817,0.8,3,E00587
+E00517,R006,Engineering Manager,Engineering,4,174811,5.4,4,E00588
+E00518,R006,Engineering Manager,Engineering,4,156971,2.5,3,E00592
+E00519,R006,Engineering Manager,Engineering,4,172767,0.8,3,E00594
+E00520,R006,Engineering Manager,Engineering,4,176068,0.0,4,E00591
+E00521,R006,Engineering Manager,Engineering,4,161228,4.0,3,E00590
+E00522,R006,Engineering Manager,Engineering,4,177890,1.0,3,E00593
+E00523,R006,Engineering Manager,Engineering,4,167912,0.1,3,E00586
+E00524,R006,Engineering Manager,Engineering,4,185874,1.6,2,E00596
+E00525,R006,Engineering Manager,Engineering,4,185435,1.2,3,E00590
+E00526,R006,Engineering Manager,Engineering,4,180410,1.4,3,E00589
+E00527,R006,Engineering Manager,Engineering,4,175246,6.7,3,E00592
+E00528,R006,Engineering Manager,Engineering,4,160762,1.0,3,E00592
+E00529,R006,Engineering Manager,Engineering,4,168086,0.5,3,E00589
+E00530,R006,Engineering Manager,Engineering,4,161818,2.8,3,E00594
+E00531,R006,Engineering Manager,Engineering,4,158645,0.8,3,E00591
+E00532,R006,Engineering Manager,Engineering,4,179916,5.1,4,E00589
+E00533,R006,Engineering Manager,Engineering,4,157664,7.2,2,E00599
+E00534,R006,Engineering Manager,Engineering,4,161830,1.2,3,E00597
+E00535,R006,Engineering Manager,Engineering,4,185514,1.9,3,E00588
+E00536,R006,Engineering Manager,Engineering,4,180662,1.8,3,E00598
+E00537,R006,Engineering Manager,Engineering,4,183256,0.7,3,E00598
+E00538,R006,Engineering Manager,Engineering,4,168871,2.6,3,E00594
+E00539,R006,Engineering Manager,Engineering,4,174107,2.8,3,E00589
+E00540,R006,Engineering Manager,Engineering,4,160492,3.9,4,E00594
+E00541,R006,Engineering Manager,Engineering,4,169526,12.2,4,E00587
+E00542,R006,Engineering Manager,Engineering,4,184825,0.7,3,E00599
+E00543,R006,Engineering Manager,Engineering,4,163545,0.7,3,E00587
+E00544,R006,Engineering Manager,Engineering,4,160698,0.9,3,E00592
+E00545,R006,Engineering Manager,Engineering,4,156747,11.3,3,E00597
+E00546,R006,Engineering Manager,Engineering,4,167759,0.7,3,E00597
+E00547,R006,Engineering Manager,Engineering,4,185925,0.9,3,E00590
+E00548,R006,Engineering Manager,Engineering,4,181401,6.7,2,E00588
+E00549,R006,Engineering Manager,Engineering,4,165603,3.7,2,E00586
+E00550,R006,Engineering Manager,Engineering,4,177997,4.7,3,E00595
+E00551,R006,Engineering Manager,Engineering,4,172335,1.4,3,E00598
+E00552,R006,Engineering Manager,Engineering,4,184062,2.7,3,E00596
+E00553,R006,Engineering Manager,Engineering,4,185267,3.0,3,E00593
+E00554,R006,Engineering Manager,Engineering,4,156924,1.4,3,E00586
+E00555,R006,Engineering Manager,Engineering,4,178264,3.2,3,E00594
+E00556,R006,Engineering Manager,Engineering,4,186677,2.8,3,E00595
+E00557,R006,Engineering Manager,Engineering,4,167823,2.2,3,E00592
+E00558,R006,Engineering Manager,Engineering,4,157789,7.9,3,E00595
+E00559,R006,Engineering Manager,Engineering,4,167517,2.1,3,E00598
+E00560,R006,Engineering Manager,Engineering,4,152554,5.9,3,E00589
+E00561,R006,Engineering Manager,Engineering,4,183755,2.1,4,E00592
+E00562,R006,Engineering Manager,Engineering,4,166762,4.8,3,E00586
+E00563,R006,Engineering Manager,Engineering,4,170312,0.2,3,E00596
+E00564,R006,Engineering Manager,Engineering,4,165744,1.8,2,E00597
+E00565,R006,Engineering Manager,Engineering,4,158140,2.0,3,E00599
+E00566,R006,Engineering Manager,Engineering,4,160249,1.1,4,E00586
+E00567,R006,Engineering Manager,Engineering,4,155937,4.5,3,E00593
+E00568,R006,Engineering Manager,Engineering,4,184385,5.6,3,E00591
+E00569,R006,Engineering Manager,Engineering,4,174849,1.5,3,E00596
+E00570,R006,Engineering Manager,Engineering,4,176823,12.5,3,E00595
+E00571,R006,Engineering Manager,Engineering,4,163173,8.4,3,E00589
+E00572,R006,Engineering Manager,Engineering,4,189605,1.9,3,E00588
+E00573,R006,Engineering Manager,Engineering,4,162076,4.5,3,E00590
+E00574,R006,Engineering Manager,Engineering,4,175129,4.9,3,E00591
+E00575,R006,Engineering Manager,Engineering,4,171518,0.7,3,E00591
+E00576,R006,Engineering Manager,Engineering,4,178198,0.6,3,E00593
+E00577,R006,Engineering Manager,Engineering,4,156731,3.0,3,E00587
+E00578,R006,Engineering Manager,Engineering,4,157831,2.2,4,E00597
+E00579,R006,Engineering Manager,Engineering,4,186207,2.5,3,E00593
+E00580,R006,Engineering Manager,Engineering,4,185086,7.3,3,E00596
+E00581,R006,Engineering Manager,Engineering,4,177121,5.4,2,E00590
+E00582,R006,Engineering Manager,Engineering,4,159150,0.6,4,E00597
+E00583,R006,Engineering Manager,Engineering,4,158054,1.8,3,E00588
+E00584,R006,Engineering Manager,Engineering,4,184423,0.4,3,E00599
+E00585,R006,Engineering Manager,Engineering,4,180712,1.3,3,E00598
+E00586,R007,Engineering Director,Engineering,5,226723,4.0,3,E00600
+E00587,R007,Engineering Director,Engineering,5,227171,4.8,2,E00600
+E00588,R007,Engineering Director,Engineering,5,236069,1.5,3,E00600
+E00589,R007,Engineering Director,Engineering,5,228298,7.3,3,E00600
+E00590,R007,Engineering Director,Engineering,5,234968,1.8,3,E00600
+E00591,R007,Engineering Director,Engineering,5,220047,1.7,3,E00600
+E00592,R007,Engineering Director,Engineering,5,210110,2.1,3,E00600
+E00593,R007,Engineering Director,Engineering,5,228126,5.9,3,E00600
+E00594,R007,Engineering Director,Engineering,5,236760,6.9,3,E00600
+E00595,R007,Engineering Director,Engineering,5,192039,1.6,3,E00600
+E00596,R007,Engineering Director,Engineering,5,237481,0.2,3,E00600
+E00597,R007,Engineering Director,Engineering,5,238040,2.3,3,E00600
+E00598,R007,Engineering Director,Engineering,5,215414,0.3,3,E00600
+E00599,R007,Engineering Director,Engineering,5,222915,1.7,3,E00600
+E00600,R008,Engineering VP,Engineering,6,277357,0.2,3,E02001
+E00601,R009,Enterprise Account Executive,Sales,2,94953,3.4,1,E00945
+E00602,R009,Enterprise Account Executive,Sales,3,136482,0.3,4,E00953
+E00603,R009,Enterprise Account Executive,Sales,1,80641,0.2,3,E00957
+E00604,R009,Enterprise Account Executive,Sales,1,70048,5.0,3,E00972
+E00605,R009,Enterprise Account Executive,Sales,1,81510,0.1,1,E00968
+E00606,R009,Enterprise Account Executive,Sales,2,114051,3.7,3,E00970
+E00607,R009,Enterprise Account Executive,Sales,3,145242,0.2,3,E00967
+E00608,R009,Enterprise Account Executive,Sales,1,76568,0.5,4,E00979
+E00609,R009,Enterprise Account Executive,Sales,2,108483,1.2,3,E00942
+E00610,R009,Enterprise Account Executive,Sales,3,120310,3.6,3,E00985
+E00611,R009,Enterprise Account Executive,Sales,3,120852,2.4,3,E00953
+E00612,R009,Enterprise Account Executive,Sales,2,110400,4.4,3,E00936
+E00613,R009,Enterprise Account Executive,Sales,1,85574,0.9,3,E00955
+E00614,R009,Enterprise Account Executive,Sales,1,81712,0.7,4,E00951
+E00615,R009,Enterprise Account Executive,Sales,2,99163,0.7,4,E00983
+E00616,R009,Enterprise Account Executive,Sales,2,91900,7.9,4,E00941
+E00617,R009,Enterprise Account Executive,Sales,2,90770,2.2,4,E00968
+E00618,R009,Enterprise Account Executive,Sales,2,92038,1.6,5,E00970
+E00619,R009,Enterprise Account Executive,Sales,2,97063,2.9,4,E00949
+E00620,R009,Enterprise Account Executive,Sales,1,78904,11.4,5,E00977
+E00621,R009,Enterprise Account Executive,Sales,2,114328,0.9,4,E00964
+E00622,R009,Enterprise Account Executive,Sales,1,87998,4.1,2,E00940
+E00623,R009,Enterprise Account Executive,Sales,2,91396,5.7,2,E00963
+E00624,R009,Enterprise Account Executive,Sales,3,140044,0.7,2,E00986
+E00625,R009,Enterprise Account Executive,Sales,1,88111,1.6,3,E00970
+E00626,R009,Enterprise Account Executive,Sales,3,124704,4.8,3,E00955
+E00627,R009,Enterprise Account Executive,Sales,1,77238,0.8,4,E00986
+E00628,R009,Enterprise Account Executive,Sales,1,88642,0.4,3,E00957
+E00629,R009,Enterprise Account Executive,Sales,3,127822,1.9,4,E00962
+E00630,R009,Enterprise Account Executive,Sales,2,104195,2.2,2,E00972
+E00631,R009,Enterprise Account Executive,Sales,3,123327,10.8,2,E00939
+E00632,R009,Enterprise Account Executive,Sales,2,103458,9.0,2,E00944
+E00633,R009,Enterprise Account Executive,Sales,1,86686,11.7,4,E00977
+E00634,R009,Enterprise Account Executive,Sales,3,126281,3.6,3,E00942
+E00635,R009,Enterprise Account Executive,Sales,2,106688,6.9,4,E00947
+E00636,R009,Enterprise Account Executive,Sales,1,75816,3.0,2,E00942
+E00637,R009,Enterprise Account Executive,Sales,1,74710,1.4,5,E00962
+E00638,R009,Enterprise Account Executive,Sales,3,115780,7.1,4,E00948
+E00639,R009,Enterprise Account Executive,Sales,1,70702,10.6,2,E00936
+E00640,R009,Enterprise Account Executive,Sales,2,93762,0.6,3,E00946
+E00641,R009,Enterprise Account Executive,Sales,1,73843,0.5,2,E00984
+E00642,R009,Enterprise Account Executive,Sales,2,95959,1.8,2,E00966
+E00643,R009,Enterprise Account Executive,Sales,3,115006,3.4,3,E00960
+E00644,R009,Enterprise Account Executive,Sales,1,77695,0.3,2,E00970
+E00645,R009,Enterprise Account Executive,Sales,1,77596,0.7,5,E00945
+E00646,R009,Enterprise Account Executive,Sales,1,74497,1.1,4,E00958
+E00647,R009,Enterprise Account Executive,Sales,1,72330,4.5,2,E00954
+E00648,R009,Enterprise Account Executive,Sales,2,109212,0.9,2,E00977
+E00649,R009,Enterprise Account Executive,Sales,3,135888,1.1,3,E00956
+E00650,R009,Enterprise Account Executive,Sales,1,87195,3.0,4,E00968
+E00651,R009,Enterprise Account Executive,Sales,1,77897,0.7,4,E00981
+E00652,R009,Enterprise Account Executive,Sales,1,71403,5.0,2,E00973
+E00653,R009,Enterprise Account Executive,Sales,1,74172,2.3,1,E00955
+E00654,R009,Enterprise Account Executive,Sales,2,95439,6.2,4,E00937
+E00655,R009,Enterprise Account Executive,Sales,2,109760,0.1,3,E00945
+E00656,R009,Enterprise Account Executive,Sales,1,70787,0.6,2,E00971
+E00657,R009,Enterprise Account Executive,Sales,3,115971,4.2,2,E00951
+E00658,R009,Enterprise Account Executive,Sales,3,117010,2.1,2,E00971
+E00659,R009,Enterprise Account Executive,Sales,2,108222,11.7,2,E00984
+E00660,R009,Enterprise Account Executive,Sales,1,80115,0.1,2,E00940
+E00661,R009,Enterprise Account Executive,Sales,1,77791,4.6,3,E00952
+E00662,R009,Enterprise Account Executive,Sales,2,99120,5.9,3,E00982
+E00663,R009,Enterprise Account Executive,Sales,1,82712,0.5,2,E00943
+E00664,R009,Enterprise Account Executive,Sales,3,129593,5.7,4,E00943
+E00665,R009,Enterprise Account Executive,Sales,3,142036,3.9,2,E00978
+E00666,R009,Enterprise Account Executive,Sales,2,112549,4.7,4,E00935
+E00667,R009,Enterprise Account Executive,Sales,1,88737,10.1,4,E00961
+E00668,R009,Enterprise Account Executive,Sales,3,127920,0.1,2,E00956
+E00669,R009,Enterprise Account Executive,Sales,2,98399,5.7,3,E00981
+E00670,R009,Enterprise Account Executive,Sales,2,100315,1.0,2,E00989
+E00671,R009,Enterprise Account Executive,Sales,1,88566,9.4,1,E00960
+E00672,R009,Enterprise Account Executive,Sales,2,114577,0.7,5,E00940
+E00673,R009,Enterprise Account Executive,Sales,1,72327,3.0,3,E00969
+E00674,R009,Enterprise Account Executive,Sales,2,114906,0.5,2,E00982
+E00675,R009,Enterprise Account Executive,Sales,3,124136,2.0,3,E00975
+E00676,R009,Enterprise Account Executive,Sales,2,91161,1.1,1,E00953
+E00677,R009,Enterprise Account Executive,Sales,3,146739,3.3,2,E00939
+E00678,R009,Enterprise Account Executive,Sales,1,73673,4.7,3,E00979
+E00679,R009,Enterprise Account Executive,Sales,1,74627,4.3,4,E00935
+E00680,R009,Enterprise Account Executive,Sales,2,104604,8.0,3,E00954
+E00681,R009,Enterprise Account Executive,Sales,1,81020,1.3,4,E00982
+E00682,R009,Enterprise Account Executive,Sales,1,80656,11.0,3,E00973
+E00683,R009,Enterprise Account Executive,Sales,3,120786,6.6,3,E00977
+E00684,R009,Enterprise Account Executive,Sales,3,123285,0.5,2,E00978
+E00685,R009,Enterprise Account Executive,Sales,2,108971,1.6,1,E00966
+E00686,R009,Enterprise Account Executive,Sales,2,96028,11.5,3,E00948
+E00687,R009,Enterprise Account Executive,Sales,3,148378,5.2,3,E00943
+E00688,R009,Enterprise Account Executive,Sales,2,93006,1.7,2,E00978
+E00689,R009,Enterprise Account Executive,Sales,2,112390,1.9,2,E00973
+E00690,R009,Enterprise Account Executive,Sales,1,75526,0.7,2,E00951
+E00691,R009,Enterprise Account Executive,Sales,1,84101,7.0,1,E00964
+E00692,R009,Enterprise Account Executive,Sales,1,85611,2.6,3,E00976
+E00693,R009,Enterprise Account Executive,Sales,2,102013,2.9,2,E00954
+E00694,R009,Enterprise Account Executive,Sales,1,89801,0.1,2,E00950
+E00695,R009,Enterprise Account Executive,Sales,3,139730,1.9,3,E00951
+E00696,R009,Enterprise Account Executive,Sales,1,82143,3.1,4,E00982
+E00697,R009,Enterprise Account Executive,Sales,2,101124,6.7,4,E00940
+E00698,R009,Enterprise Account Executive,Sales,2,107287,0.5,3,E00982
+E00699,R009,Enterprise Account Executive,Sales,1,84580,15.0,2,E00944
+E00700,R009,Enterprise Account Executive,Sales,1,72151,3.7,3,E00981
+E00701,R009,Enterprise Account Executive,Sales,3,124012,6.6,3,E00967
+E00702,R009,Enterprise Account Executive,Sales,2,98813,7.7,2,E00981
+E00703,R009,Enterprise Account Executive,Sales,2,91040,0.3,4,E00961
+E00704,R009,Enterprise Account Executive,Sales,3,146858,0.0,2,E00985
+E00705,R009,Enterprise Account Executive,Sales,3,140922,2.0,3,E00956
+E00706,R009,Enterprise Account Executive,Sales,2,99583,0.6,4,E00943
+E00707,R009,Enterprise Account Executive,Sales,1,70593,0.3,3,E00978
+E00708,R009,Enterprise Account Executive,Sales,1,81866,0.9,3,E00978
+E00709,R009,Enterprise Account Executive,Sales,1,79627,1.1,5,E00942
+E00710,R009,Enterprise Account Executive,Sales,2,98723,2.0,4,E00948
+E00711,R009,Enterprise Account Executive,Sales,1,87918,0.8,4,E00989
+E00712,R009,Enterprise Account Executive,Sales,2,112871,4.4,3,E00944
+E00713,R009,Enterprise Account Executive,Sales,1,78903,0.2,3,E00985
+E00714,R009,Enterprise Account Executive,Sales,1,70325,7.7,3,E00975
+E00715,R009,Enterprise Account Executive,Sales,2,107623,2.5,1,E00942
+E00716,R010,Solutions Architect (Sales Eng.),Sales,1,82419,5.6,3,E00935
+E00717,R010,Solutions Architect (Sales Eng.),Sales,2,114657,1.4,4,E00987
+E00718,R010,Solutions Architect (Sales Eng.),Sales,1,76600,5.3,4,E00964
+E00719,R010,Solutions Architect (Sales Eng.),Sales,3,115189,0.4,3,E00937
+E00720,R010,Solutions Architect (Sales Eng.),Sales,3,126239,1.1,4,E00972
+E00721,R010,Solutions Architect (Sales Eng.),Sales,1,77877,0.5,3,E00988
+E00722,R010,Solutions Architect (Sales Eng.),Sales,1,78424,1.3,2,E00984
+E00723,R010,Solutions Architect (Sales Eng.),Sales,3,131953,1.2,4,E00975
+E00724,R010,Solutions Architect (Sales Eng.),Sales,2,99333,8.4,3,E00948
+E00725,R010,Solutions Architect (Sales Eng.),Sales,1,74583,2.6,2,E00990
+E00726,R010,Solutions Architect (Sales Eng.),Sales,2,110156,4.3,2,E00975
+E00727,R010,Solutions Architect (Sales Eng.),Sales,1,87532,0.4,4,E00936
+E00728,R010,Solutions Architect (Sales Eng.),Sales,3,146938,2.4,3,E00983
+E00729,R010,Solutions Architect (Sales Eng.),Sales,2,101304,3.3,3,E00976
+E00730,R010,Solutions Architect (Sales Eng.),Sales,2,91069,2.4,4,E00953
+E00731,R010,Solutions Architect (Sales Eng.),Sales,1,77645,7.7,4,E00983
+E00732,R010,Solutions Architect (Sales Eng.),Sales,2,105469,2.5,3,E00946
+E00733,R010,Solutions Architect (Sales Eng.),Sales,1,77257,0.2,5,E00981
+E00734,R010,Solutions Architect (Sales Eng.),Sales,2,94450,2.9,2,E00945
+E00735,R010,Solutions Architect (Sales Eng.),Sales,2,103585,3.2,4,E00948
+E00736,R010,Solutions Architect (Sales Eng.),Sales,2,90029,4.7,2,E00976
+E00737,R010,Solutions Architect (Sales Eng.),Sales,3,117784,1.4,4,E00963
+E00738,R010,Solutions Architect (Sales Eng.),Sales,1,82565,6.5,4,E00985
+E00739,R010,Solutions Architect (Sales Eng.),Sales,1,78860,5.4,3,E00941
+E00740,R010,Solutions Architect (Sales Eng.),Sales,1,73566,2.6,3,E00952
+E00741,R010,Solutions Architect (Sales Eng.),Sales,2,104300,1.9,4,E00966
+E00742,R010,Solutions Architect (Sales Eng.),Sales,1,81614,1.2,3,E00968
+E00743,R010,Solutions Architect (Sales Eng.),Sales,2,98213,3.8,4,E00987
+E00744,R010,Solutions Architect (Sales Eng.),Sales,3,125546,0.6,3,E00947
+E00745,R010,Solutions Architect (Sales Eng.),Sales,1,70007,1.7,3,E00988
+E00746,R010,Solutions Architect (Sales Eng.),Sales,2,100012,1.2,4,E00988
+E00747,R010,Solutions Architect (Sales Eng.),Sales,1,77348,2.2,2,E00956
+E00748,R010,Solutions Architect (Sales Eng.),Sales,2,110527,1.5,4,E00984
+E00749,R010,Solutions Architect (Sales Eng.),Sales,3,148915,2.3,2,E00965
+E00750,R010,Solutions Architect (Sales Eng.),Sales,3,126223,0.8,4,E00952
+E00751,R010,Solutions Architect (Sales Eng.),Sales,3,129212,1.6,2,E00948
+E00752,R010,Solutions Architect (Sales Eng.),Sales,1,81052,1.6,4,E00979
+E00753,R010,Solutions Architect (Sales Eng.),Sales,1,80038,1.6,4,E00938
+E00754,R010,Solutions Architect (Sales Eng.),Sales,2,99038,2.5,3,E00952
+E00755,R010,Solutions Architect (Sales Eng.),Sales,1,79370,6.5,3,E00982
+E00756,R010,Solutions Architect (Sales Eng.),Sales,1,85130,0.7,3,E00974
+E00757,R010,Solutions Architect (Sales Eng.),Sales,1,73963,3.1,5,E00944
+E00758,R010,Solutions Architect (Sales Eng.),Sales,3,118970,8.4,4,E00966
+E00759,R010,Solutions Architect (Sales Eng.),Sales,2,106693,0.2,2,E00962
+E00760,R010,Solutions Architect (Sales Eng.),Sales,2,113775,1.7,4,E00947
+E00761,R010,Solutions Architect (Sales Eng.),Sales,2,92146,1.7,5,E00970
+E00762,R010,Solutions Architect (Sales Eng.),Sales,2,106974,0.6,1,E00986
+E00763,R010,Solutions Architect (Sales Eng.),Sales,3,145656,3.4,2,E00974
+E00764,R010,Solutions Architect (Sales Eng.),Sales,2,108666,0.5,2,E00951
+E00765,R010,Solutions Architect (Sales Eng.),Sales,3,149388,1.8,5,E00942
+E00766,R010,Solutions Architect (Sales Eng.),Sales,3,142979,7.3,3,E00965
+E00767,R010,Solutions Architect (Sales Eng.),Sales,1,78925,1.6,3,E00965
+E00768,R010,Solutions Architect (Sales Eng.),Sales,1,70771,1.6,4,E00963
+E00769,R010,Solutions Architect (Sales Eng.),Sales,1,83947,3.8,2,E00965
+E00770,R010,Solutions Architect (Sales Eng.),Sales,3,133329,0.2,2,E00964
+E00771,R010,Solutions Architect (Sales Eng.),Sales,1,87165,0.0,4,E00955
+E00772,R010,Solutions Architect (Sales Eng.),Sales,3,148125,0.4,2,E00987
+E00773,R011,Sales Development Rep,Sales,1,87777,1.3,3,E00962
+E00774,R011,Sales Development Rep,Sales,2,91650,13.4,3,E00952
+E00775,R011,Sales Development Rep,Sales,3,116229,1.4,3,E00940
+E00776,R011,Sales Development Rep,Sales,2,113327,2.6,3,E00980
+E00777,R011,Sales Development Rep,Sales,2,105300,2.8,3,E00950
+E00778,R011,Sales Development Rep,Sales,3,132802,5.4,3,E00937
+E00779,R011,Sales Development Rep,Sales,1,89972,10.3,3,E00958
+E00780,R011,Sales Development Rep,Sales,1,88449,0.2,3,E00940
+E00781,R011,Sales Development Rep,Sales,3,128185,0.8,3,E00946
+E00782,R011,Sales Development Rep,Sales,1,88256,2.5,3,E00943
+E00783,R011,Sales Development Rep,Sales,2,93303,0.6,3,E00961
+E00784,R011,Sales Development Rep,Sales,2,90129,0.4,2,E00955
+E00785,R011,Sales Development Rep,Sales,2,94441,4.3,3,E00975
+E00786,R011,Sales Development Rep,Sales,2,96238,7.0,3,E00958
+E00787,R011,Sales Development Rep,Sales,1,85280,2.2,3,E00980
+E00788,R011,Sales Development Rep,Sales,2,105079,0.7,3,E00937
+E00789,R011,Sales Development Rep,Sales,1,87274,1.0,2,E00939
+E00790,R011,Sales Development Rep,Sales,1,89712,0.4,1,E00938
+E00791,R011,Sales Development Rep,Sales,1,76348,4.5,3,E00968
+E00792,R011,Sales Development Rep,Sales,2,112714,10.9,4,E00990
+E00793,R011,Sales Development Rep,Sales,1,76060,1.2,3,E00971
+E00794,R011,Sales Development Rep,Sales,3,138020,1.0,3,E00935
+E00795,R011,Sales Development Rep,Sales,1,72786,5.1,4,E00939
+E00796,R011,Sales Development Rep,Sales,1,74229,2.7,3,E00964
+E00797,R011,Sales Development Rep,Sales,2,103113,2.9,3,E00936
+E00798,R011,Sales Development Rep,Sales,2,94028,2.1,4,E00957
+E00799,R011,Sales Development Rep,Sales,1,71386,0.1,3,E00957
+E00800,R011,Sales Development Rep,Sales,2,98193,2.0,3,E00979
+E00801,R011,Sales Development Rep,Sales,1,73325,1.7,3,E00959
+E00802,R011,Sales Development Rep,Sales,1,76641,0.4,3,E00953
+E00803,R011,Sales Development Rep,Sales,3,123198,2.3,3,E00949
+E00804,R011,Sales Development Rep,Sales,1,77082,5.1,3,E00961
+E00805,R011,Sales Development Rep,Sales,1,80707,4.0,2,E00990
+E00806,R011,Sales Development Rep,Sales,2,109719,3.0,4,E00949
+E00807,R011,Sales Development Rep,Sales,1,82555,2.2,3,E00947
+E00808,R011,Sales Development Rep,Sales,2,114410,5.4,3,E00954
+E00809,R011,Sales Development Rep,Sales,1,80209,0.7,3,E00979
+E00810,R011,Sales Development Rep,Sales,1,88651,1.4,3,E00969
+E00811,R011,Sales Development Rep,Sales,2,105797,2.1,3,E00954
+E00812,R011,Sales Development Rep,Sales,2,91577,1.8,3,E00959
+E00813,R011,Sales Development Rep,Sales,1,79789,12.3,3,E00975
+E00814,R011,Sales Development Rep,Sales,1,85335,1.4,4,E00936
+E00815,R011,Sales Development Rep,Sales,2,111239,7.7,3,E00987
+E00816,R011,Sales Development Rep,Sales,2,98167,2.2,3,E00989
+E00817,R011,Sales Development Rep,Sales,1,81244,1.7,3,E00979
+E00818,R011,Sales Development Rep,Sales,3,149292,15.0,3,E00984
+E00819,R011,Sales Development Rep,Sales,2,106067,2.6,3,E00963
+E00820,R011,Sales Development Rep,Sales,2,114503,1.1,3,E00977
+E00821,R011,Sales Development Rep,Sales,3,136891,2.1,3,E00983
+E00822,R011,Sales Development Rep,Sales,3,148701,0.9,3,E00950
+E00823,R011,Sales Development Rep,Sales,3,125891,0.1,3,E00970
+E00824,R011,Sales Development Rep,Sales,1,77227,1.5,3,E00987
+E00825,R011,Sales Development Rep,Sales,1,81916,2.8,3,E00987
+E00826,R011,Sales Development Rep,Sales,2,104468,0.1,4,E00951
+E00827,R011,Sales Development Rep,Sales,1,77412,1.1,2,E00945
+E00828,R011,Sales Development Rep,Sales,2,103163,4.8,3,E00981
+E00829,R011,Sales Development Rep,Sales,1,80639,3.2,3,E00976
+E00830,R011,Sales Development Rep,Sales,2,97299,4.4,3,E00956
+E00831,R011,Sales Development Rep,Sales,3,149233,7.5,3,E00943
+E00832,R011,Sales Development Rep,Sales,3,118647,3.4,3,E00969
+E00833,R011,Sales Development Rep,Sales,1,77819,0.4,3,E00983
+E00834,R011,Sales Development Rep,Sales,3,132610,1.3,3,E00973
+E00835,R011,Sales Development Rep,Sales,1,85047,1.6,3,E00976
+E00836,R011,Sales Development Rep,Sales,2,97144,0.2,4,E00986
+E00837,R011,Sales Development Rep,Sales,1,83826,2.0,3,E00963
+E00838,R011,Sales Development Rep,Sales,1,88947,1.3,3,E00955
+E00839,R011,Sales Development Rep,Sales,1,86243,0.2,4,E00967
+E00840,R011,Sales Development Rep,Sales,1,73917,1.6,3,E00953
+E00841,R011,Sales Development Rep,Sales,3,146987,10.9,3,E00968
+E00842,R011,Sales Development Rep,Sales,1,78616,14.1,4,E00985
+E00843,R011,Sales Development Rep,Sales,2,91170,2.2,4,E00939
+E00844,R011,Sales Development Rep,Sales,2,92195,0.6,4,E00954
+E00845,R011,Sales Development Rep,Sales,1,82026,1.3,3,E00944
+E00846,R011,Sales Development Rep,Sales,2,107443,0.6,4,E00935
+E00847,R011,Sales Development Rep,Sales,2,113826,5.6,3,E00988
+E00848,R011,Sales Development Rep,Sales,3,129780,0.1,3,E00984
+E00849,R011,Sales Development Rep,Sales,1,70039,3.4,3,E00959
+E00850,R011,Sales Development Rep,Sales,3,132313,0.4,4,E00964
+E00851,R011,Sales Development Rep,Sales,1,70345,1.3,3,E00971
+E00852,R011,Sales Development Rep,Sales,3,126038,6.2,3,E00941
+E00853,R011,Sales Development Rep,Sales,2,99832,14.7,2,E00961
+E00854,R011,Sales Development Rep,Sales,2,94362,8.1,4,E00938
+E00855,R011,Sales Development Rep,Sales,1,85642,1.5,3,E00969
+E00856,R011,Sales Development Rep,Sales,1,70749,0.3,3,E00938
+E00857,R011,Sales Development Rep,Sales,2,109653,4.8,2,E00977
+E00858,R011,Sales Development Rep,Sales,1,79339,1.0,2,E00990
+E00859,R011,Sales Development Rep,Sales,1,72959,0.4,3,E00988
+E00860,R011,Sales Development Rep,Sales,1,73580,0.8,3,E00958
+E00861,R011,Sales Development Rep,Sales,2,92260,0.2,3,E00973
+E00862,R011,Sales Development Rep,Sales,2,94581,6.3,3,E00974
+E00863,R011,Sales Development Rep,Sales,1,73772,6.0,4,E00989
+E00864,R011,Sales Development Rep,Sales,1,79618,1.8,3,E00959
+E00865,R011,Sales Development Rep,Sales,2,111883,1.8,1,E00960
+E00866,R011,Sales Development Rep,Sales,2,99017,1.7,3,E00974
+E00867,R011,Sales Development Rep,Sales,2,96036,3.4,2,E00974
+E00868,R011,Sales Development Rep,Sales,1,74203,0.3,2,E00959
+E00869,R011,Sales Development Rep,Sales,1,70834,0.0,4,E00980
+E00870,R011,Sales Development Rep,Sales,2,106053,8.9,3,E00989
+E00871,R011,Sales Development Rep,Sales,1,70617,2.0,3,E00973
+E00872,R011,Sales Development Rep,Sales,2,94547,3.2,3,E00978
+E00873,R011,Sales Development Rep,Sales,2,95469,5.2,3,E00958
+E00874,R011,Sales Development Rep,Sales,1,87069,5.9,3,E00952
+E00875,R011,Sales Development Rep,Sales,1,83247,0.6,4,E00963
+E00876,R011,Sales Development Rep,Sales,1,87111,3.1,3,E00980
+E00877,R011,Sales Development Rep,Sales,1,87015,2.5,2,E00969
+E00878,R011,Sales Development Rep,Sales,1,70316,5.8,4,E00941
+E00879,R011,Sales Development Rep,Sales,2,92798,3.1,3,E00986
+E00880,R011,Sales Development Rep,Sales,2,110207,7.3,2,E00967
+E00881,R011,Sales Development Rep,Sales,3,143744,0.2,3,E00936
+E00882,R011,Sales Development Rep,Sales,1,71090,0.1,4,E00972
+E00883,R011,Sales Development Rep,Sales,1,86109,3.1,2,E00958
+E00884,R011,Sales Development Rep,Sales,1,81227,3.7,4,E00967
+E00885,R011,Sales Development Rep,Sales,1,81259,1.0,3,E00946
+E00886,R011,Sales Development Rep,Sales,1,70074,0.4,2,E00972
+E00887,R011,Sales Development Rep,Sales,1,71026,2.9,3,E00974
+E00888,R011,Sales Development Rep,Sales,3,145334,0.8,3,E00960
+E00889,R011,Sales Development Rep,Sales,2,97034,4.7,2,E00971
+E00890,R011,Sales Development Rep,Sales,1,87902,4.7,3,E00947
+E00891,R011,Sales Development Rep,Sales,1,70239,0.1,4,E00950
+E00892,R011,Sales Development Rep,Sales,1,77036,3.0,3,E00960
+E00893,R011,Sales Development Rep,Sales,3,115933,2.9,3,E00969
+E00894,R011,Sales Development Rep,Sales,1,84968,4.8,3,E00937
+E00895,R011,Sales Development Rep,Sales,2,110551,1.7,4,E00949
+E00896,R011,Sales Development Rep,Sales,2,95327,0.5,2,E00950
+E00897,R011,Sales Development Rep,Sales,3,117721,0.6,2,E00966
+E00898,R011,Sales Development Rep,Sales,1,77419,1.6,3,E00961
+E00899,R011,Sales Development Rep,Sales,3,140929,0.4,4,E00946
+E00900,R011,Sales Development Rep,Sales,1,89087,2.1,3,E00947
+E00901,R011,Sales Development Rep,Sales,1,80092,1.2,2,E00957
+E00902,R011,Sales Development Rep,Sales,1,86299,1.5,3,E00941
+E00903,R011,Sales Development Rep,Sales,2,91085,2.7,3,E00983
+E00904,R011,Sales Development Rep,Sales,2,102194,4.0,2,E00972
+E00905,R011,Sales Development Rep,Sales,1,89374,1.6,4,E00946
+E00906,R011,Sales Development Rep,Sales,2,111582,0.4,4,E00966
+E00907,R011,Sales Development Rep,Sales,2,95609,11.0,3,E00956
+E00908,R011,Sales Development Rep,Sales,2,108818,0.5,4,E00965
+E00909,R011,Sales Development Rep,Sales,1,76893,1.1,3,E00945
+E00910,R011,Sales Development Rep,Sales,2,109293,0.5,2,E00980
+E00911,R011,Sales Development Rep,Sales,3,133745,2.1,2,E00960
+E00912,R011,Sales Development Rep,Sales,2,104611,1.6,3,E00962
+E00913,R011,Sales Development Rep,Sales,3,128630,4.4,4,E00988
+E00914,R011,Sales Development Rep,Sales,1,70064,1.9,3,E00949
+E00915,R011,Sales Development Rep,Sales,2,97844,0.4,3,E00967
+E00916,R011,Sales Development Rep,Sales,2,107197,5.7,3,E00935
+E00917,R011,Sales Development Rep,Sales,3,148470,3.9,3,E00949
+E00918,R011,Sales Development Rep,Sales,3,123239,8.4,4,E00941
+E00919,R011,Sales Development Rep,Sales,1,72990,1.3,3,E00976
+E00920,R011,Sales Development Rep,Sales,1,87647,1.8,3,E00938
+E00921,R011,Sales Development Rep,Sales,2,114189,0.6,2,E00944
+E00922,R011,Sales Development Rep,Sales,1,84699,1.7,3,E00959
+E00923,R011,Sales Development Rep,Sales,1,70957,4.0,3,E00985
+E00924,R011,Sales Development Rep,Sales,1,82929,1.6,3,E00939
+E00925,R011,Sales Development Rep,Sales,1,81676,5.9,3,E00986
+E00926,R011,Sales Development Rep,Sales,1,72742,0.5,4,E00938
+E00927,R011,Sales Development Rep,Sales,1,76084,0.9,3,E00937
+E00928,R011,Sales Development Rep,Sales,2,108797,2.9,3,E00965
+E00929,R011,Sales Development Rep,Sales,1,75776,4.4,3,E00990
+E00930,R011,Sales Development Rep,Sales,1,80918,4.3,3,E00980
+E00931,R011,Sales Development Rep,Sales,2,113205,1.9,3,E00971
+E00932,R011,Sales Development Rep,Sales,1,89980,2.4,3,E00957
+E00933,R011,Sales Development Rep,Sales,2,105504,1.4,3,E00950
+E00934,R011,Sales Development Rep,Sales,3,136422,0.0,3,E00962
+E00935,R012,Sales Manager,Sales,4,168305,7.1,4,E00992
+E00936,R012,Sales Manager,Sales,4,157226,0.1,3,E00998
+E00937,R012,Sales Manager,Sales,4,159336,0.4,3,E00995
+E00938,R012,Sales Manager,Sales,4,161249,7.9,2,E00998
+E00939,R012,Sales Manager,Sales,4,158872,11.2,3,E00993
+E00940,R012,Sales Manager,Sales,4,185608,2.2,2,E00991
+E00941,R012,Sales Manager,Sales,4,180064,0.4,3,E00998
+E00942,R012,Sales Manager,Sales,4,154441,1.8,3,E00999
+E00943,R012,Sales Manager,Sales,4,174181,6.6,3,E00997
+E00944,R012,Sales Manager,Sales,4,158038,1.0,2,E00997
+E00945,R012,Sales Manager,Sales,4,176438,2.6,3,E00991
+E00946,R012,Sales Manager,Sales,4,162131,0.1,4,E00999
+E00947,R012,Sales Manager,Sales,4,174182,5.5,3,E00992
+E00948,R012,Sales Manager,Sales,4,177443,2.2,3,E00992
+E00949,R012,Sales Manager,Sales,4,163886,0.5,3,E00991
+E00950,R012,Sales Manager,Sales,4,151177,0.1,3,E00998
+E00951,R012,Sales Manager,Sales,4,173028,0.2,3,E00995
+E00952,R012,Sales Manager,Sales,4,179322,0.9,4,E00992
+E00953,R012,Sales Manager,Sales,4,177156,3.8,3,E00995
+E00954,R012,Sales Manager,Sales,4,150535,1.4,4,E00994
+E00955,R012,Sales Manager,Sales,4,188126,3.5,3,E00991
+E00956,R012,Sales Manager,Sales,4,183647,2.2,4,E00997
+E00957,R012,Sales Manager,Sales,4,167057,0.0,4,E00997
+E00958,R012,Sales Manager,Sales,4,183112,13.3,3,E00991
+E00959,R012,Sales Manager,Sales,4,176211,1.8,3,E00998
+E00960,R012,Sales Manager,Sales,4,169926,2.0,3,E00994
+E00961,R012,Sales Manager,Sales,4,187643,3.4,3,E00996
+E00962,R012,Sales Manager,Sales,4,168981,4.6,2,E00992
+E00963,R012,Sales Manager,Sales,4,179657,5.4,3,E00997
+E00964,R012,Sales Manager,Sales,4,168941,2.0,3,E00996
+E00965,R012,Sales Manager,Sales,4,164877,2.2,2,E00993
+E00966,R012,Sales Manager,Sales,4,152497,15.0,3,E00999
+E00967,R012,Sales Manager,Sales,4,189938,0.4,3,E00995
+E00968,R012,Sales Manager,Sales,4,171249,2.5,3,E00996
+E00969,R012,Sales Manager,Sales,4,176259,1.4,2,E00994
+E00970,R012,Sales Manager,Sales,4,189844,0.7,3,E00997
+E00971,R012,Sales Manager,Sales,4,173483,1.0,3,E00993
+E00972,R012,Sales Manager,Sales,4,185842,2.1,3,E00995
+E00973,R012,Sales Manager,Sales,4,154817,1.7,3,E00998
+E00974,R012,Sales Manager,Sales,4,164932,0.7,3,E00993
+E00975,R012,Sales Manager,Sales,4,157177,2.5,3,E00996
+E00976,R012,Sales Manager,Sales,4,156828,1.5,3,E00995
+E00977,R012,Sales Manager,Sales,4,167371,4.5,3,E00999
+E00978,R012,Sales Manager,Sales,4,169600,2.1,2,E00992
+E00979,R012,Sales Manager,Sales,4,164831,3.0,3,E00993
+E00980,R012,Sales Manager,Sales,4,176951,0.2,3,E00996
+E00981,R012,Sales Manager,Sales,4,189421,1.3,3,E00994
+E00982,R012,Sales Manager,Sales,4,166203,1.4,3,E00993
+E00983,R012,Sales Manager,Sales,4,184392,7.3,3,E00994
+E00984,R012,Sales Manager,Sales,4,181813,2.2,3,E00991
+E00985,R012,Sales Manager,Sales,4,160944,2.0,3,E00999
+E00986,R012,Sales Manager,Sales,4,154899,1.2,3,E00991
+E00987,R012,Sales Manager,Sales,4,170440,1.9,2,E00994
+E00988,R012,Sales Manager,Sales,4,153162,4.1,3,E00996
+E00989,R012,Sales Manager,Sales,4,168838,1.3,3,E00992
+E00990,R012,Sales Manager,Sales,4,153443,0.9,3,E00999
+E00991,R013,Sales Director,Sales,5,208912,13.3,3,E01000
+E00992,R013,Sales Director,Sales,5,193426,8.8,3,E01000
+E00993,R013,Sales Director,Sales,5,193933,0.7,3,E01000
+E00994,R013,Sales Director,Sales,5,190123,0.3,3,E01000
+E00995,R013,Sales Director,Sales,5,207075,0.8,3,E01000
+E00996,R013,Sales Director,Sales,5,228352,1.7,3,E01000
+E00997,R013,Sales Director,Sales,5,219520,9.6,3,E01000
+E00998,R013,Sales Director,Sales,5,210448,2.9,3,E01000
+E00999,R013,Sales Director,Sales,5,220706,2.5,3,E01000
+E01000,R014,Sales VP,Sales,6,292447,4.1,3,E02003
+E01001,R015,Enterprise CSM,Customer Success,1,78931,1.5,3,E01286
+E01002,R015,Enterprise CSM,Customer Success,1,72453,0.1,3,E01254
+E01003,R015,Enterprise CSM,Customer Success,3,146333,0.2,3,E01269
+E01004,R015,Enterprise CSM,Customer Success,2,99590,0.2,3,E01277
+E01005,R015,Enterprise CSM,Customer Success,2,96700,2.6,3,E01254
+E01006,R015,Enterprise CSM,Customer Success,1,81240,2.4,4,E01253
+E01007,R015,Enterprise CSM,Customer Success,1,87538,3.4,3,E01273
+E01008,R015,Enterprise CSM,Customer Success,2,96717,1.4,3,E01292
+E01009,R015,Enterprise CSM,Customer Success,1,80669,0.2,3,E01266
+E01010,R015,Enterprise CSM,Customer Success,3,116173,3.4,4,E01278
+E01011,R015,Enterprise CSM,Customer Success,3,122964,1.6,3,E01269
+E01012,R015,Enterprise CSM,Customer Success,1,72325,0.0,3,E01262
+E01013,R015,Enterprise CSM,Customer Success,3,121189,2.5,2,E01252
+E01014,R015,Enterprise CSM,Customer Success,2,98706,0.8,3,E01283
+E01015,R015,Enterprise CSM,Customer Success,2,90823,0.0,4,E01283
+E01016,R015,Enterprise CSM,Customer Success,3,128919,1.7,3,E01257
+E01017,R015,Enterprise CSM,Customer Success,1,85535,1.0,2,E01289
+E01018,R015,Enterprise CSM,Customer Success,3,126378,2.2,3,E01276
+E01019,R015,Enterprise CSM,Customer Success,1,76592,0.3,3,E01255
+E01020,R015,Enterprise CSM,Customer Success,1,89055,1.2,4,E01276
+E01021,R015,Enterprise CSM,Customer Success,1,74213,4.6,3,E01258
+E01022,R015,Enterprise CSM,Customer Success,1,80781,5.4,3,E01270
+E01023,R015,Enterprise CSM,Customer Success,3,137432,1.6,3,E01273
+E01024,R015,Enterprise CSM,Customer Success,1,76566,0.0,4,E01253
+E01025,R015,Enterprise CSM,Customer Success,1,71010,4.8,3,E01263
+E01026,R015,Enterprise CSM,Customer Success,1,89608,9.8,3,E01253
+E01027,R015,Enterprise CSM,Customer Success,1,87061,1.2,3,E01290
+E01028,R015,Enterprise CSM,Customer Success,3,120053,1.7,3,E01254
+E01029,R015,Enterprise CSM,Customer Success,2,106597,0.6,3,E01276
+E01030,R015,Enterprise CSM,Customer Success,1,82920,3.6,3,E01255
+E01031,R015,Enterprise CSM,Customer Success,1,78680,0.8,3,E01292
+E01032,R015,Enterprise CSM,Customer Success,1,76279,3.1,3,E01274
+E01033,R015,Enterprise CSM,Customer Success,1,70383,1.4,2,E01258
+E01034,R015,Enterprise CSM,Customer Success,1,86782,12.7,4,E01260
+E01035,R015,Enterprise CSM,Customer Success,3,145504,1.9,3,E01257
+E01036,R015,Enterprise CSM,Customer Success,1,77932,3.9,4,E01290
+E01037,R015,Enterprise CSM,Customer Success,2,109431,1.4,3,E01286
+E01038,R015,Enterprise CSM,Customer Success,1,83713,1.1,4,E01290
+E01039,R015,Enterprise CSM,Customer Success,1,83291,9.8,2,E01251
+E01040,R015,Enterprise CSM,Customer Success,2,91676,2.4,3,E01279
+E01041,R015,Enterprise CSM,Customer Success,2,99184,2.9,3,E01280
+E01042,R015,Enterprise CSM,Customer Success,1,87699,1.5,2,E01256
+E01043,R015,Enterprise CSM,Customer Success,2,111393,2.3,3,E01262
+E01044,R015,Enterprise CSM,Customer Success,2,108560,4.9,3,E01284
+E01045,R015,Enterprise CSM,Customer Success,2,111051,6.9,2,E01274
+E01046,R015,Enterprise CSM,Customer Success,1,76659,8.9,3,E01281
+E01047,R015,Enterprise CSM,Customer Success,1,75455,2.2,3,E01285
+E01048,R015,Enterprise CSM,Customer Success,3,131863,0.7,2,E01291
+E01049,R015,Enterprise CSM,Customer Success,3,129676,1.8,3,E01275
+E01050,R015,Enterprise CSM,Customer Success,1,77242,6.6,4,E01285
+E01051,R015,Enterprise CSM,Customer Success,2,94721,1.2,2,E01288
+E01052,R015,Enterprise CSM,Customer Success,3,118153,2.1,3,E01261
+E01053,R015,Enterprise CSM,Customer Success,1,79184,1.4,3,E01289
+E01054,R015,Enterprise CSM,Customer Success,3,123159,4.4,3,E01257
+E01055,R015,Enterprise CSM,Customer Success,3,126889,1.2,4,E01251
+E01056,R015,Enterprise CSM,Customer Success,2,96903,3.7,2,E01291
+E01057,R015,Enterprise CSM,Customer Success,2,114724,0.9,3,E01272
+E01058,R015,Enterprise CSM,Customer Success,1,83744,0.7,3,E01256
+E01059,R015,Enterprise CSM,Customer Success,1,86489,0.4,3,E01278
+E01060,R015,Enterprise CSM,Customer Success,3,127247,2.4,3,E01272
+E01061,R015,Enterprise CSM,Customer Success,1,84623,1.9,4,E01280
+E01062,R015,Enterprise CSM,Customer Success,2,106870,13.9,3,E01261
+E01063,R015,Enterprise CSM,Customer Success,1,83632,6.8,3,E01282
+E01064,R015,Enterprise CSM,Customer Success,2,103028,0.4,3,E01273
+E01065,R015,Enterprise CSM,Customer Success,3,121039,4.7,3,E01252
+E01066,R015,Enterprise CSM,Customer Success,1,77201,1.0,3,E01263
+E01067,R015,Enterprise CSM,Customer Success,1,72583,8.2,2,E01258
+E01068,R015,Enterprise CSM,Customer Success,2,114677,2.8,3,E01276
+E01069,R015,Enterprise CSM,Customer Success,3,119923,4.5,4,E01259
+E01070,R015,Enterprise CSM,Customer Success,1,71891,14.4,4,E01280
+E01071,R015,Enterprise CSM,Customer Success,2,101160,1.8,3,E01262
+E01072,R015,Enterprise CSM,Customer Success,1,77811,3.2,3,E01274
+E01073,R015,Enterprise CSM,Customer Success,1,71882,2.5,3,E01261
+E01074,R015,Enterprise CSM,Customer Success,1,80518,9.0,4,E01289
+E01075,R015,Enterprise CSM,Customer Success,1,76970,6.2,2,E01292
+E01076,R015,Enterprise CSM,Customer Success,1,82913,0.0,3,E01292
+E01077,R015,Enterprise CSM,Customer Success,1,77666,0.4,2,E01257
+E01078,R015,Enterprise CSM,Customer Success,1,89688,6.3,3,E01275
+E01079,R015,Enterprise CSM,Customer Success,3,147933,3.7,3,E01264
+E01080,R015,Enterprise CSM,Customer Success,3,123531,3.1,4,E01285
+E01081,R015,Enterprise CSM,Customer Success,1,79912,4.4,3,E01288
+E01082,R015,Enterprise CSM,Customer Success,1,88646,0.9,3,E01289
+E01083,R015,Enterprise CSM,Customer Success,2,112390,3.5,3,E01266
+E01084,R015,Enterprise CSM,Customer Success,1,84927,2.2,2,E01269
+E01085,R015,Enterprise CSM,Customer Success,2,103735,11.8,4,E01266
+E01086,R015,Enterprise CSM,Customer Success,1,88335,0.6,3,E01257
+E01087,R015,Enterprise CSM,Customer Success,1,83160,1.5,3,E01284
+E01088,R015,Enterprise CSM,Customer Success,1,88814,5.9,2,E01287
+E01089,R015,Enterprise CSM,Customer Success,1,80003,2.3,3,E01288
+E01090,R015,Enterprise CSM,Customer Success,2,98209,2.9,3,E01252
+E01091,R015,Enterprise CSM,Customer Success,2,94288,0.5,3,E01265
+E01092,R015,Enterprise CSM,Customer Success,3,149086,0.0,3,E01260
+E01093,R015,Enterprise CSM,Customer Success,1,74028,2.7,2,E01288
+E01094,R015,Enterprise CSM,Customer Success,3,138816,2.3,3,E01254
+E01095,R015,Enterprise CSM,Customer Success,1,84929,1.9,2,E01260
+E01096,R015,Enterprise CSM,Customer Success,3,148836,3.1,3,E01253
+E01097,R015,Enterprise CSM,Customer Success,1,87830,1.8,3,E01271
+E01098,R015,Enterprise CSM,Customer Success,2,110610,0.2,2,E01273
+E01099,R015,Enterprise CSM,Customer Success,2,103857,3.3,2,E01280
+E01100,R015,Enterprise CSM,Customer Success,3,127429,1.5,3,E01284
+E01101,R015,Enterprise CSM,Customer Success,1,84985,1.0,2,E01278
+E01102,R015,Enterprise CSM,Customer Success,3,149071,0.5,3,E01271
+E01103,R015,Enterprise CSM,Customer Success,1,70684,2.2,3,E01256
+E01104,R015,Enterprise CSM,Customer Success,1,82652,0.1,2,E01269
+E01105,R015,Enterprise CSM,Customer Success,2,95537,6.0,3,E01278
+E01106,R015,Enterprise CSM,Customer Success,1,79914,3.8,3,E01278
+E01107,R015,Enterprise CSM,Customer Success,2,96080,1.6,2,E01256
+E01108,R015,Enterprise CSM,Customer Success,1,75461,6.9,3,E01263
+E01109,R015,Enterprise CSM,Customer Success,1,78677,1.2,3,E01286
+E01110,R015,Enterprise CSM,Customer Success,1,77418,5.0,4,E01268
+E01111,R015,Enterprise CSM,Customer Success,1,74578,0.7,3,E01260
+E01112,R015,Enterprise CSM,Customer Success,2,98518,0.2,3,E01279
+E01113,R015,Enterprise CSM,Customer Success,2,97911,1.0,2,E01265
+E01114,R015,Enterprise CSM,Customer Success,1,83890,4.5,3,E01267
+E01115,R015,Enterprise CSM,Customer Success,1,73432,5.6,4,E01279
+E01116,R015,Enterprise CSM,Customer Success,1,77070,0.9,3,E01264
+E01117,R015,Enterprise CSM,Customer Success,1,81602,0.4,3,E01281
+E01118,R015,Enterprise CSM,Customer Success,1,76898,2.3,3,E01276
+E01119,R016,Technical Support Engineer,Customer Success,1,82400,0.6,3,E01261
+E01120,R016,Technical Support Engineer,Customer Success,1,78157,1.8,3,E01272
+E01121,R016,Technical Support Engineer,Customer Success,2,114518,9.8,2,E01282
+E01122,R016,Technical Support Engineer,Customer Success,1,89349,0.4,3,E01260
+E01123,R016,Technical Support Engineer,Customer Success,2,94770,3.9,2,E01273
+E01124,R016,Technical Support Engineer,Customer Success,1,87174,0.8,3,E01270
+E01125,R016,Technical Support Engineer,Customer Success,1,71803,7.0,3,E01267
+E01126,R016,Technical Support Engineer,Customer Success,1,73180,3.6,2,E01292
+E01127,R016,Technical Support Engineer,Customer Success,1,86708,0.2,3,E01262
+E01128,R016,Technical Support Engineer,Customer Success,3,129690,1.3,3,E01251
+E01129,R016,Technical Support Engineer,Customer Success,1,77206,2.0,3,E01270
+E01130,R016,Technical Support Engineer,Customer Success,3,141813,0.9,4,E01275
+E01131,R016,Technical Support Engineer,Customer Success,1,89414,6.3,2,E01269
+E01132,R016,Technical Support Engineer,Customer Success,2,114412,2.8,3,E01261
+E01133,R016,Technical Support Engineer,Customer Success,1,88068,4.0,3,E01258
+E01134,R016,Technical Support Engineer,Customer Success,2,102254,1.1,3,E01285
+E01135,R016,Technical Support Engineer,Customer Success,2,96486,3.6,4,E01254
+E01136,R016,Technical Support Engineer,Customer Success,1,78689,2.9,4,E01266
+E01137,R016,Technical Support Engineer,Customer Success,2,96416,0.7,3,E01277
+E01138,R016,Technical Support Engineer,Customer Success,1,76096,2.7,3,E01286
+E01139,R016,Technical Support Engineer,Customer Success,2,96490,4.0,3,E01262
+E01140,R016,Technical Support Engineer,Customer Success,2,104319,8.9,4,E01274
+E01141,R016,Technical Support Engineer,Customer Success,3,131690,15.0,4,E01287
+E01142,R016,Technical Support Engineer,Customer Success,2,110674,4.1,3,E01289
+E01143,R016,Technical Support Engineer,Customer Success,1,88211,4.8,3,E01290
+E01144,R016,Technical Support Engineer,Customer Success,3,129258,4.1,4,E01279
+E01145,R016,Technical Support Engineer,Customer Success,3,120803,0.1,3,E01287
+E01146,R016,Technical Support Engineer,Customer Success,2,108879,4.3,4,E01268
+E01147,R016,Technical Support Engineer,Customer Success,3,132348,0.4,3,E01270
+E01148,R016,Technical Support Engineer,Customer Success,1,87192,3.4,2,E01252
+E01149,R016,Technical Support Engineer,Customer Success,1,76670,5.3,3,E01284
+E01150,R016,Technical Support Engineer,Customer Success,2,97326,8.8,1,E01265
+E01151,R016,Technical Support Engineer,Customer Success,3,146048,5.4,2,E01283
+E01152,R016,Technical Support Engineer,Customer Success,2,93285,0.3,3,E01256
+E01153,R016,Technical Support Engineer,Customer Success,2,113455,12.6,4,E01267
+E01154,R016,Technical Support Engineer,Customer Success,1,71623,7.6,3,E01259
+E01155,R016,Technical Support Engineer,Customer Success,2,101412,8.7,4,E01283
+E01156,R016,Technical Support Engineer,Customer Success,1,86516,0.0,3,E01288
+E01157,R016,Technical Support Engineer,Customer Success,2,98429,6.8,2,E01266
+E01158,R016,Technical Support Engineer,Customer Success,2,104009,6.7,3,E01260
+E01159,R016,Technical Support Engineer,Customer Success,3,121065,0.1,3,E01289
+E01160,R016,Technical Support Engineer,Customer Success,1,73524,5.9,3,E01275
+E01161,R016,Technical Support Engineer,Customer Success,1,86321,3.5,3,E01287
+E01162,R016,Technical Support Engineer,Customer Success,2,92143,1.1,3,E01279
+E01163,R016,Technical Support Engineer,Customer Success,1,73338,1.2,3,E01284
+E01164,R016,Technical Support Engineer,Customer Success,1,71837,1.4,3,E01268
+E01165,R016,Technical Support Engineer,Customer Success,1,82018,1.4,3,E01290
+E01166,R016,Technical Support Engineer,Customer Success,2,90536,4.8,4,E01277
+E01167,R016,Technical Support Engineer,Customer Success,2,103880,3.7,3,E01271
+E01168,R016,Technical Support Engineer,Customer Success,2,109762,1.8,4,E01282
+E01169,R016,Technical Support Engineer,Customer Success,1,83671,0.1,3,E01265
+E01170,R016,Technical Support Engineer,Customer Success,3,144178,0.3,4,E01261
+E01171,R016,Technical Support Engineer,Customer Success,1,86496,3.9,4,E01272
+E01172,R016,Technical Support Engineer,Customer Success,1,76647,2.3,2,E01283
+E01173,R016,Technical Support Engineer,Customer Success,3,139360,2.8,3,E01272
+E01174,R016,Technical Support Engineer,Customer Success,1,89327,3.5,3,E01262
+E01175,R016,Technical Support Engineer,Customer Success,1,78600,6.2,3,E01268
+E01176,R016,Technical Support Engineer,Customer Success,1,88619,3.4,3,E01265
+E01177,R016,Technical Support Engineer,Customer Success,1,79058,2.8,4,E01271
+E01178,R016,Technical Support Engineer,Customer Success,3,129028,5.0,3,E01281
+E01179,R016,Technical Support Engineer,Customer Success,1,79050,1.0,3,E01252
+E01180,R016,Technical Support Engineer,Customer Success,2,95195,12.3,4,E01257
+E01181,R016,Technical Support Engineer,Customer Success,1,78060,11.9,4,E01271
+E01182,R016,Technical Support Engineer,Customer Success,2,97984,10.2,2,E01274
+E01183,R016,Technical Support Engineer,Customer Success,2,98130,0.3,2,E01270
+E01184,R016,Technical Support Engineer,Customer Success,2,99340,0.2,4,E01253
+E01185,R016,Technical Support Engineer,Customer Success,1,85999,0.2,3,E01267
+E01186,R016,Technical Support Engineer,Customer Success,2,104548,2.3,3,E01264
+E01187,R016,Technical Support Engineer,Customer Success,1,76463,1.3,3,E01277
+E01188,R016,Technical Support Engineer,Customer Success,2,91523,5.0,2,E01286
+E01189,R016,Technical Support Engineer,Customer Success,3,137378,2.1,2,E01285
+E01190,R016,Technical Support Engineer,Customer Success,1,89047,0.5,3,E01281
+E01191,R016,Technical Support Engineer,Customer Success,3,133929,0.4,3,E01268
+E01192,R016,Technical Support Engineer,Customer Success,3,127502,1.6,2,E01284
+E01193,R016,Technical Support Engineer,Customer Success,3,137263,11.4,3,E01291
+E01194,R016,Technical Support Engineer,Customer Success,1,79783,0.2,3,E01282
+E01195,R016,Technical Support Engineer,Customer Success,3,126292,0.4,3,E01255
+E01196,R016,Technical Support Engineer,Customer Success,2,107765,1.0,3,E01251
+E01197,R016,Technical Support Engineer,Customer Success,2,92411,6.2,3,E01268
+E01198,R016,Technical Support Engineer,Customer Success,3,138901,1.0,3,E01269
+E01199,R016,Technical Support Engineer,Customer Success,1,71512,4.4,4,E01282
+E01200,R016,Technical Support Engineer,Customer Success,3,123063,2.4,4,E01287
+E01201,R016,Technical Support Engineer,Customer Success,3,116149,0.6,3,E01287
+E01202,R016,Technical Support Engineer,Customer Success,1,86223,0.3,4,E01253
+E01203,R016,Technical Support Engineer,Customer Success,2,93833,3.2,3,E01271
+E01204,R016,Technical Support Engineer,Customer Success,1,74267,1.2,2,E01272
+E01205,R016,Technical Support Engineer,Customer Success,1,76141,1.0,3,E01279
+E01206,R016,Technical Support Engineer,Customer Success,2,111844,3.0,3,E01258
+E01207,R016,Technical Support Engineer,Customer Success,2,97157,5.5,4,E01280
+E01208,R016,Technical Support Engineer,Customer Success,1,85499,1.7,3,E01255
+E01209,R016,Technical Support Engineer,Customer Success,1,77834,1.6,4,E01259
+E01210,R016,Technical Support Engineer,Customer Success,3,129042,4.4,4,E01263
+E01211,R016,Technical Support Engineer,Customer Success,3,118074,0.4,4,E01264
+E01212,R016,Technical Support Engineer,Customer Success,2,111123,6.4,2,E01285
+E01213,R016,Technical Support Engineer,Customer Success,1,70944,0.8,1,E01267
+E01214,R016,Technical Support Engineer,Customer Success,3,115043,4.9,3,E01254
+E01215,R016,Technical Support Engineer,Customer Success,3,134182,7.0,2,E01281
+E01216,R016,Technical Support Engineer,Customer Success,1,77383,2.7,3,E01263
+E01217,R016,Technical Support Engineer,Customer Success,2,111817,5.9,3,E01259
+E01218,R016,Technical Support Engineer,Customer Success,2,103124,0.6,3,E01280
+E01219,R016,Technical Support Engineer,Customer Success,1,84917,0.5,4,E01283
+E01220,R016,Technical Support Engineer,Customer Success,2,98310,1.8,3,E01291
+E01221,R016,Technical Support Engineer,Customer Success,3,127499,0.0,2,E01251
+E01222,R016,Technical Support Engineer,Customer Success,1,81591,1.3,3,E01274
+E01223,R016,Technical Support Engineer,Customer Success,3,145857,2.1,4,E01259
+E01224,R016,Technical Support Engineer,Customer Success,1,74793,1.7,3,E01263
+E01225,R016,Technical Support Engineer,Customer Success,2,107781,4.3,3,E01286
+E01226,R016,Technical Support Engineer,Customer Success,1,70219,0.3,3,E01264
+E01227,R016,Technical Support Engineer,Customer Success,1,72507,0.8,4,E01278
+E01228,R016,Technical Support Engineer,Customer Success,3,143971,5.0,3,E01275
+E01229,R016,Technical Support Engineer,Customer Success,3,139583,0.7,3,E01256
+E01230,R016,Technical Support Engineer,Customer Success,2,97903,5.7,4,E01251
+E01231,R016,Technical Support Engineer,Customer Success,3,143252,0.5,2,E01258
+E01232,R016,Technical Support Engineer,Customer Success,1,84938,4.4,2,E01273
+E01233,R016,Technical Support Engineer,Customer Success,1,78640,1.4,4,E01270
+E01234,R016,Technical Support Engineer,Customer Success,1,83565,3.7,3,E01252
+E01235,R016,Technical Support Engineer,Customer Success,2,106709,3.1,1,E01277
+E01236,R016,Technical Support Engineer,Customer Success,3,124507,1.6,3,E01255
+E01237,R016,Technical Support Engineer,Customer Success,3,140967,10.3,3,E01290
+E01238,R016,Technical Support Engineer,Customer Success,2,91126,1.4,3,E01275
+E01239,R016,Technical Support Engineer,Customer Success,1,79254,0.5,3,E01264
+E01240,R016,Technical Support Engineer,Customer Success,1,83287,7.8,3,E01276
+E01241,R016,Technical Support Engineer,Customer Success,2,97580,6.8,3,E01266
+E01242,R016,Technical Support Engineer,Customer Success,3,121369,5.7,2,E01277
+E01243,R016,Technical Support Engineer,Customer Success,2,106126,3.6,2,E01255
+E01244,R016,Technical Support Engineer,Customer Success,1,75840,1.1,3,E01265
+E01245,R016,Technical Support Engineer,Customer Success,1,73811,1.2,3,E01291
+E01246,R016,Technical Support Engineer,Customer Success,2,106251,12.3,3,E01267
+E01247,R016,Technical Support Engineer,Customer Success,3,133305,1.6,2,E01282
+E01248,R016,Technical Support Engineer,Customer Success,2,107669,2.3,4,E01281
+E01249,R016,Technical Support Engineer,Customer Success,1,88204,1.7,3,E01288
+E01250,R016,Technical Support Engineer,Customer Success,1,82923,0.2,2,E01259
+E01251,R017,CS Manager,Customer Success,4,172155,0.1,3,E01296
+E01252,R017,CS Manager,Customer Success,4,158157,1.4,3,E01298
+E01253,R017,CS Manager,Customer Success,4,186398,3.1,3,E01298
+E01254,R017,CS Manager,Customer Success,4,174178,0.3,3,E01297
+E01255,R017,CS Manager,Customer Success,4,179867,1.0,3,E01297
+E01256,R017,CS Manager,Customer Success,4,172798,0.8,3,E01293
+E01257,R017,CS Manager,Customer Success,4,169047,3.9,3,E01293
+E01258,R017,CS Manager,Customer Success,4,161120,1.2,3,E01296
+E01259,R017,CS Manager,Customer Success,4,173331,0.2,2,E01296
+E01260,R017,CS Manager,Customer Success,4,161269,1.8,3,E01295
+E01261,R017,CS Manager,Customer Success,4,152515,3.1,3,E01299
+E01262,R017,CS Manager,Customer Success,4,189384,2.5,3,E01294
+E01263,R017,CS Manager,Customer Success,4,182536,1.3,3,E01295
+E01264,R017,CS Manager,Customer Success,4,169586,0.9,3,E01298
+E01265,R017,CS Manager,Customer Success,4,184074,1.1,3,E01293
+E01266,R017,CS Manager,Customer Success,4,154714,1.8,3,E01293
+E01267,R017,CS Manager,Customer Success,4,182351,0.6,3,E01294
+E01268,R017,CS Manager,Customer Success,4,179825,6.5,3,E01298
+E01269,R017,CS Manager,Customer Success,4,186985,1.5,2,E01293
+E01270,R017,CS Manager,Customer Success,4,171663,1.0,2,E01296
+E01271,R017,CS Manager,Customer Success,4,170020,0.3,3,E01293
+E01272,R017,CS Manager,Customer Success,4,188698,0.6,3,E01294
+E01273,R017,CS Manager,Customer Success,4,181856,1.2,3,E01294
+E01274,R017,CS Manager,Customer Success,4,156194,0.0,3,E01297
+E01275,R017,CS Manager,Customer Success,4,176118,0.6,3,E01299
+E01276,R017,CS Manager,Customer Success,4,161744,3.5,3,E01298
+E01277,R017,CS Manager,Customer Success,4,153490,15.0,4,E01294
+E01278,R017,CS Manager,Customer Success,4,175879,1.9,3,E01297
+E01279,R017,CS Manager,Customer Success,4,157546,2.3,3,E01296
+E01280,R017,CS Manager,Customer Success,4,182781,0.7,3,E01299
+E01281,R017,CS Manager,Customer Success,4,151706,0.1,2,E01296
+E01282,R017,CS Manager,Customer Success,4,179415,1.3,3,E01297
+E01283,R017,CS Manager,Customer Success,4,151067,3.2,3,E01298
+E01284,R017,CS Manager,Customer Success,4,165223,0.9,3,E01299
+E01285,R017,CS Manager,Customer Success,4,169765,1.5,3,E01299
+E01286,R017,CS Manager,Customer Success,4,160200,0.3,3,E01295
+E01287,R017,CS Manager,Customer Success,4,176556,5.6,3,E01295
+E01288,R017,CS Manager,Customer Success,4,167398,0.7,3,E01299
+E01289,R017,CS Manager,Customer Success,4,150238,0.9,3,E01295
+E01290,R017,CS Manager,Customer Success,4,152348,1.4,3,E01294
+E01291,R017,CS Manager,Customer Success,4,154379,0.7,3,E01295
+E01292,R017,CS Manager,Customer Success,4,172112,4.3,3,E01297
+E01293,R018,CS Director,Customer Success,5,196499,3.8,3,E01300
+E01294,R018,CS Director,Customer Success,5,225974,0.6,3,E01300
+E01295,R018,CS Director,Customer Success,5,223131,6.6,3,E01300
+E01296,R018,CS Director,Customer Success,5,232825,1.1,2,E01300
+E01297,R018,CS Director,Customer Success,5,201314,4.3,3,E01300
+E01298,R018,CS Director,Customer Success,5,207627,9.6,4,E01300
+E01299,R018,CS Director,Customer Success,5,204964,1.4,2,E01300
+E01300,R019,CS VP,Customer Success,6,275999,8.9,3,E02003
+E01301,R020,Senior Product Manager,Product,3,137820,6.3,3,E01440
+E01302,R020,Senior Product Manager,Product,3,125207,4.6,2,E01440
+E01303,R020,Senior Product Manager,Product,1,73915,7.8,3,E01453
+E01304,R020,Senior Product Manager,Product,1,72505,6.7,4,E01443
+E01305,R020,Senior Product Manager,Product,1,72408,1.9,3,E01441
+E01306,R020,Senior Product Manager,Product,1,84741,4.3,3,E01441
+E01307,R020,Senior Product Manager,Product,2,92884,2.8,4,E01437
+E01308,R020,Senior Product Manager,Product,1,83488,0.0,3,E01438
+E01309,R020,Senior Product Manager,Product,1,83663,2.3,2,E01436
+E01310,R020,Senior Product Manager,Product,3,136583,2.1,3,E01434
+E01311,R020,Senior Product Manager,Product,2,96097,6.9,3,E01436
+E01312,R020,Senior Product Manager,Product,2,105763,0.4,4,E01444
+E01313,R020,Senior Product Manager,Product,1,77139,1.2,3,E01448
+E01314,R020,Senior Product Manager,Product,1,85530,9.3,3,E01450
+E01315,R020,Senior Product Manager,Product,3,143262,0.0,2,E01448
+E01316,R020,Senior Product Manager,Product,3,124898,0.9,3,E01439
+E01317,R020,Senior Product Manager,Product,1,82137,3.3,2,E01443
+E01318,R020,Senior Product Manager,Product,1,73936,4.6,1,E01445
+E01319,R020,Senior Product Manager,Product,2,98977,0.7,3,E01450
+E01320,R020,Senior Product Manager,Product,1,80035,5.4,3,E01435
+E01321,R020,Senior Product Manager,Product,2,107898,1.0,4,E01438
+E01322,R020,Senior Product Manager,Product,1,77664,3.2,2,E01454
+E01323,R020,Senior Product Manager,Product,1,78557,1.8,3,E01453
+E01324,R020,Senior Product Manager,Product,2,105680,4.0,3,E01446
+E01325,R020,Senior Product Manager,Product,3,146763,2.6,3,E01439
+E01326,R020,Senior Product Manager,Product,2,104627,8.5,1,E01455
+E01327,R020,Senior Product Manager,Product,2,92252,0.7,3,E01439
+E01328,R020,Senior Product Manager,Product,2,91676,0.7,5,E01441
+E01329,R020,Senior Product Manager,Product,2,103888,3.0,3,E01443
+E01330,R020,Senior Product Manager,Product,1,89379,12.3,3,E01434
+E01331,R020,Senior Product Manager,Product,2,100733,0.0,2,E01438
+E01332,R020,Senior Product Manager,Product,1,84671,0.4,4,E01454
+E01333,R020,Senior Product Manager,Product,1,71704,4.6,4,E01454
+E01334,R020,Senior Product Manager,Product,2,92949,2.2,5,E01446
+E01335,R020,Senior Product Manager,Product,2,110039,0.9,3,E01442
+E01336,R020,Senior Product Manager,Product,1,79203,0.9,2,E01453
+E01337,R020,Senior Product Manager,Product,1,84871,5.0,4,E01445
+E01338,R020,Senior Product Manager,Product,3,125752,2.7,4,E01451
+E01339,R020,Senior Product Manager,Product,1,87383,1.8,3,E01437
+E01340,R020,Senior Product Manager,Product,1,77980,3.1,4,E01434
+E01341,R020,Senior Product Manager,Product,1,86370,2.1,3,E01442
+E01342,R020,Senior Product Manager,Product,2,94971,6.2,3,E01453
+E01343,R020,Senior Product Manager,Product,2,111149,3.5,3,E01436
+E01344,R020,Senior Product Manager,Product,3,125861,0.5,1,E01436
+E01345,R020,Senior Product Manager,Product,2,101996,2.8,3,E01443
+E01346,R020,Senior Product Manager,Product,1,86986,9.6,5,E01444
+E01347,R020,Senior Product Manager,Product,1,75050,0.1,4,E01434
+E01348,R020,Senior Product Manager,Product,1,81959,1.7,5,E01455
+E01349,R021,Product Designer,Product,1,76366,5.0,3,E01453
+E01350,R021,Product Designer,Product,2,90052,0.4,3,E01454
+E01351,R021,Product Designer,Product,1,88508,0.3,3,E01442
+E01352,R021,Product Designer,Product,1,79680,0.6,2,E01444
+E01353,R021,Product Designer,Product,3,131583,9.9,3,E01439
+E01354,R021,Product Designer,Product,1,71358,1.3,4,E01453
+E01355,R021,Product Designer,Product,2,103613,1.4,3,E01446
+E01356,R021,Product Designer,Product,1,83440,2.8,3,E01452
+E01357,R021,Product Designer,Product,1,74688,2.3,2,E01455
+E01358,R021,Product Designer,Product,1,70207,0.9,2,E01451
+E01359,R021,Product Designer,Product,2,108003,3.0,4,E01443
+E01360,R021,Product Designer,Product,2,107501,3.3,4,E01450
+E01361,R021,Product Designer,Product,1,87313,0.7,4,E01436
+E01362,R021,Product Designer,Product,2,91748,6.4,3,E01439
+E01363,R021,Product Designer,Product,1,83601,4.5,3,E01437
+E01364,R021,Product Designer,Product,2,98996,3.0,2,E01447
+E01365,R021,Product Designer,Product,3,118995,1.2,3,E01446
+E01366,R021,Product Designer,Product,2,100982,3.9,3,E01445
+E01367,R021,Product Designer,Product,2,96396,8.6,4,E01446
+E01368,R021,Product Designer,Product,1,83383,4.8,3,E01447
+E01369,R021,Product Designer,Product,1,70131,4.6,3,E01438
+E01370,R021,Product Designer,Product,1,88982,8.1,3,E01445
+E01371,R021,Product Designer,Product,3,128491,7.5,3,E01448
+E01372,R021,Product Designer,Product,3,135560,1.2,2,E01434
+E01373,R021,Product Designer,Product,1,87547,6.0,4,E01450
+E01374,R021,Product Designer,Product,2,102099,0.7,3,E01451
+E01375,R021,Product Designer,Product,2,107565,4.2,3,E01445
+E01376,R021,Product Designer,Product,2,104293,3.0,3,E01452
+E01377,R021,Product Designer,Product,2,101612,2.4,3,E01438
+E01378,R021,Product Designer,Product,2,109852,1.1,3,E01451
+E01379,R021,Product Designer,Product,2,93572,0.4,3,E01443
+E01380,R021,Product Designer,Product,2,113247,8.2,4,E01449
+E01381,R021,Product Designer,Product,2,104150,5.0,4,E01452
+E01382,R021,Product Designer,Product,1,86968,7.9,4,E01440
+E01383,R021,Product Designer,Product,2,90135,5.8,3,E01454
+E01384,R021,Product Designer,Product,1,83158,0.7,4,E01444
+E01385,R021,Product Designer,Product,1,71665,0.3,4,E01442
+E01386,R021,Product Designer,Product,1,72535,10.2,3,E01436
+E01387,R021,Product Designer,Product,1,71740,5.6,2,E01446
+E01388,R021,Product Designer,Product,2,93940,8.9,3,E01455
+E01389,R021,Product Designer,Product,2,92777,1.0,3,E01444
+E01390,R021,Product Designer,Product,1,76058,2.9,3,E01435
+E01391,R021,Product Designer,Product,1,82083,2.3,2,E01442
+E01392,R021,Product Designer,Product,1,76015,3.7,3,E01441
+E01393,R021,Product Designer,Product,3,142315,0.9,2,E01434
+E01394,R021,Product Designer,Product,2,109935,0.0,4,E01435
+E01395,R021,Product Designer,Product,3,124182,2.0,3,E01438
+E01396,R021,Product Designer,Product,1,74049,0.0,3,E01435
+E01397,R021,Product Designer,Product,2,114939,5.7,3,E01437
+E01398,R021,Product Designer,Product,1,77085,0.9,3,E01440
+E01399,R021,Product Designer,Product,1,74681,3.7,3,E01450
+E01400,R021,Product Designer,Product,1,74627,2.4,3,E01444
+E01401,R021,Product Designer,Product,3,145145,0.2,4,E01449
+E01402,R021,Product Designer,Product,1,88324,2.6,3,E01455
+E01403,R021,Product Designer,Product,1,87945,4.9,4,E01447
+E01404,R021,Product Designer,Product,1,83996,3.9,3,E01437
+E01405,R021,Product Designer,Product,1,79757,12.6,4,E01451
+E01406,R021,Product Designer,Product,2,91153,0.5,2,E01448
+E01407,R021,Product Designer,Product,2,102677,11.9,4,E01440
+E01408,R021,Product Designer,Product,2,92351,2.0,2,E01449
+E01409,R021,Product Designer,Product,2,111456,0.7,3,E01449
+E01410,R021,Product Designer,Product,1,83227,2.3,4,E01447
+E01411,R021,Product Designer,Product,3,133789,2.5,3,E01452
+E01412,R021,Product Designer,Product,1,77675,2.2,3,E01435
+E01413,R021,Product Designer,Product,3,138191,0.2,3,E01437
+E01414,R021,Product Designer,Product,3,134707,4.8,3,E01441
+E01415,R021,Product Designer,Product,1,75105,0.1,3,E01441
+E01416,R021,Product Designer,Product,1,82154,1.1,3,E01449
+E01417,R021,Product Designer,Product,3,123989,8.4,2,E01439
+E01418,R021,Product Designer,Product,3,123535,5.3,2,E01442
+E01419,R021,Product Designer,Product,2,106721,0.3,3,E01451
+E01420,R021,Product Designer,Product,2,104696,0.6,4,E01440
+E01421,R021,Product Designer,Product,3,126807,0.2,3,E01452
+E01422,R021,Product Designer,Product,3,132152,1.0,2,E01447
+E01423,R021,Product Designer,Product,1,77592,7.0,3,E01445
+E01424,R021,Product Designer,Product,2,105550,1.9,2,E01434
+E01425,R021,Product Designer,Product,1,78104,0.5,3,E01454
+E01426,R021,Product Designer,Product,1,75438,1.0,3,E01455
+E01427,R021,Product Designer,Product,1,80103,0.8,3,E01450
+E01428,R021,Product Designer,Product,1,84179,1.0,3,E01448
+E01429,R021,Product Designer,Product,1,73586,0.3,3,E01447
+E01430,R021,Product Designer,Product,3,145224,0.7,5,E01448
+E01431,R021,Product Designer,Product,2,90019,4.6,2,E01449
+E01432,R021,Product Designer,Product,1,85465,9.3,4,E01452
+E01433,R021,Product Designer,Product,3,144608,1.9,3,E01435
+E01434,R022,Product Team Lead,Product,4,159762,0.7,3,E01459
+E01435,R022,Product Team Lead,Product,4,178315,6.2,3,E01457
+E01436,R022,Product Team Lead,Product,4,183511,0.3,3,E01459
+E01437,R022,Product Team Lead,Product,4,161031,0.6,3,E01456
+E01438,R022,Product Team Lead,Product,4,180977,4.7,3,E01458
+E01439,R022,Product Team Lead,Product,4,152200,3.4,3,E01456
+E01440,R022,Product Team Lead,Product,4,173647,0.9,3,E01458
+E01441,R022,Product Team Lead,Product,4,160222,3.8,3,E01459
+E01442,R022,Product Team Lead,Product,4,182706,5.5,3,E01456
+E01443,R022,Product Team Lead,Product,4,186084,7.6,3,E01459
+E01444,R022,Product Team Lead,Product,4,170738,11.6,2,E01457
+E01445,R022,Product Team Lead,Product,4,174937,8.6,3,E01456
+E01446,R022,Product Team Lead,Product,4,165782,3.4,3,E01456
+E01447,R022,Product Team Lead,Product,4,167677,0.7,3,E01458
+E01448,R022,Product Team Lead,Product,4,180145,2.3,3,E01459
+E01449,R022,Product Team Lead,Product,4,169827,0.5,3,E01457
+E01450,R022,Product Team Lead,Product,4,187438,2.4,3,E01458
+E01451,R022,Product Team Lead,Product,4,175240,0.3,3,E01456
+E01452,R022,Product Team Lead,Product,4,159890,1.9,3,E01457
+E01453,R022,Product Team Lead,Product,4,160865,5.5,3,E01457
+E01454,R022,Product Team Lead,Product,4,183492,1.0,4,E01458
+E01455,R022,Product Team Lead,Product,4,182619,0.7,3,E01457
+E01456,R023,Product Director,Product,5,222014,2.3,2,E01460
+E01457,R023,Product Director,Product,5,216143,7.7,2,E01460
+E01458,R023,Product Director,Product,5,190751,1.3,3,E01460
+E01459,R023,Product Director,Product,5,225432,0.8,3,E01460
+E01460,R024,Product VP,Product,6,247187,7.0,3,E02001
+E01461,R025,Product Marketing Manager,Marketing,1,88323,1.4,3,E01578
+E01462,R025,Product Marketing Manager,Marketing,2,94219,15.0,4,E01595
+E01463,R025,Product Marketing Manager,Marketing,1,79392,6.0,4,E01589
+E01464,R025,Product Marketing Manager,Marketing,2,113452,0.1,3,E01592
+E01465,R025,Product Marketing Manager,Marketing,2,95925,3.3,2,E01593
+E01466,R025,Product Marketing Manager,Marketing,2,104158,6.8,3,E01589
+E01467,R025,Product Marketing Manager,Marketing,1,74668,4.3,3,E01593
+E01468,R025,Product Marketing Manager,Marketing,1,85219,1.1,3,E01588
+E01469,R025,Product Marketing Manager,Marketing,2,113825,3.2,2,E01579
+E01470,R025,Product Marketing Manager,Marketing,1,83511,0.4,2,E01586
+E01471,R025,Product Marketing Manager,Marketing,3,142221,3.4,2,E01582
+E01472,R025,Product Marketing Manager,Marketing,1,77524,2.1,3,E01584
+E01473,R025,Product Marketing Manager,Marketing,2,103315,2.3,4,E01583
+E01474,R025,Product Marketing Manager,Marketing,1,70061,7.0,3,E01594
+E01475,R025,Product Marketing Manager,Marketing,2,106939,3.3,2,E01589
+E01476,R025,Product Marketing Manager,Marketing,1,79198,3.0,3,E01587
+E01477,R025,Product Marketing Manager,Marketing,2,97977,4.7,4,E01587
+E01478,R025,Product Marketing Manager,Marketing,2,99069,3.3,4,E01584
+E01479,R025,Product Marketing Manager,Marketing,2,94115,0.5,3,E01595
+E01480,R025,Product Marketing Manager,Marketing,2,114714,0.6,3,E01588
+E01481,R025,Product Marketing Manager,Marketing,2,90250,2.7,2,E01587
+E01482,R025,Product Marketing Manager,Marketing,3,124694,2.1,3,E01590
+E01483,R025,Product Marketing Manager,Marketing,2,103765,2.0,4,E01582
+E01484,R025,Product Marketing Manager,Marketing,2,95039,1.3,3,E01590
+E01485,R025,Product Marketing Manager,Marketing,1,89141,2.7,2,E01587
+E01486,R025,Product Marketing Manager,Marketing,3,125159,5.9,2,E01594
+E01487,R025,Product Marketing Manager,Marketing,2,95992,1.8,4,E01589
+E01488,R025,Product Marketing Manager,Marketing,1,81171,5.0,2,E01582
+E01489,R025,Product Marketing Manager,Marketing,2,104001,0.4,3,E01592
+E01490,R025,Product Marketing Manager,Marketing,2,105463,3.1,2,E01595
+E01491,R025,Product Marketing Manager,Marketing,1,78708,3.7,3,E01578
+E01492,R025,Product Marketing Manager,Marketing,1,86322,1.6,3,E01580
+E01493,R025,Product Marketing Manager,Marketing,2,92630,3.3,3,E01594
+E01494,R025,Product Marketing Manager,Marketing,3,144780,10.1,3,E01578
+E01495,R025,Product Marketing Manager,Marketing,1,80647,0.5,3,E01591
+E01496,R025,Product Marketing Manager,Marketing,3,127781,0.6,3,E01585
+E01497,R025,Product Marketing Manager,Marketing,1,77838,2.6,3,E01585
+E01498,R025,Product Marketing Manager,Marketing,2,112372,1.2,4,E01596
+E01499,R025,Product Marketing Manager,Marketing,1,81403,0.1,3,E01593
+E01500,R025,Product Marketing Manager,Marketing,2,112794,2.5,3,E01581
+E01501,R025,Product Marketing Manager,Marketing,1,70436,0.9,3,E01591
+E01502,R025,Product Marketing Manager,Marketing,2,97164,4.3,2,E01586
+E01503,R025,Product Marketing Manager,Marketing,3,128637,2.5,3,E01586
+E01504,R025,Product Marketing Manager,Marketing,2,96599,3.2,3,E01579
+E01505,R025,Product Marketing Manager,Marketing,2,92728,5.3,2,E01590
+E01506,R025,Product Marketing Manager,Marketing,2,99384,2.8,3,E01595
+E01507,R025,Product Marketing Manager,Marketing,2,110930,2.1,4,E01586
+E01508,R025,Product Marketing Manager,Marketing,3,127357,4.3,3,E01579
+E01509,R025,Product Marketing Manager,Marketing,3,149671,2.5,2,E01580
+E01510,R025,Product Marketing Manager,Marketing,2,97380,10.7,4,E01581
+E01511,R025,Product Marketing Manager,Marketing,2,99556,3.4,2,E01581
+E01512,R025,Product Marketing Manager,Marketing,1,71607,3.8,3,E01580
+E01513,R025,Product Marketing Manager,Marketing,1,73922,2.2,3,E01590
+E01514,R025,Product Marketing Manager,Marketing,1,87506,3.6,3,E01581
+E01515,R025,Product Marketing Manager,Marketing,3,123112,15.0,3,E01583
+E01516,R025,Product Marketing Manager,Marketing,3,119873,3.6,3,E01583
+E01517,R025,Product Marketing Manager,Marketing,3,148372,2.9,3,E01586
+E01518,R025,Product Marketing Manager,Marketing,3,149444,0.1,2,E01578
+E01519,R025,Product Marketing Manager,Marketing,1,89663,5.1,3,E01580
+E01520,R025,Product Marketing Manager,Marketing,3,130323,1.6,3,E01589
+E01521,R025,Product Marketing Manager,Marketing,2,91392,9.4,3,E01583
+E01522,R025,Product Marketing Manager,Marketing,2,99197,1.7,3,E01583
+E01523,R025,Product Marketing Manager,Marketing,1,87190,3.2,3,E01592
+E01524,R025,Product Marketing Manager,Marketing,3,135521,0.4,3,E01579
+E01525,R025,Product Marketing Manager,Marketing,1,89306,4.2,3,E01580
+E01526,R025,Product Marketing Manager,Marketing,2,90747,3.4,3,E01584
+E01527,R026,Marketing Generalist / Content,Marketing,3,148307,0.7,3,E01578
+E01528,R026,Marketing Generalist / Content,Marketing,3,118185,0.9,3,E01589
+E01529,R026,Marketing Generalist / Content,Marketing,1,74516,2.1,3,E01590
+E01530,R026,Marketing Generalist / Content,Marketing,2,109533,0.5,3,E01578
+E01531,R026,Marketing Generalist / Content,Marketing,2,97282,0.6,3,E01587
+E01532,R026,Marketing Generalist / Content,Marketing,3,120184,0.8,4,E01579
+E01533,R026,Marketing Generalist / Content,Marketing,2,103036,1.0,3,E01586
+E01534,R026,Marketing Generalist / Content,Marketing,1,83423,0.4,4,E01596
+E01535,R026,Marketing Generalist / Content,Marketing,2,90131,7.0,2,E01582
+E01536,R026,Marketing Generalist / Content,Marketing,1,72079,9.4,3,E01593
+E01537,R026,Marketing Generalist / Content,Marketing,1,72670,0.9,3,E01595
+E01538,R026,Marketing Generalist / Content,Marketing,3,130532,0.9,3,E01584
+E01539,R026,Marketing Generalist / Content,Marketing,1,73094,0.4,3,E01592
+E01540,R026,Marketing Generalist / Content,Marketing,1,86314,2.2,1,E01579
+E01541,R026,Marketing Generalist / Content,Marketing,1,86399,3.8,3,E01578
+E01542,R026,Marketing Generalist / Content,Marketing,2,103281,15.0,3,E01585
+E01543,R026,Marketing Generalist / Content,Marketing,2,100888,1.3,2,E01595
+E01544,R026,Marketing Generalist / Content,Marketing,1,73906,4.7,3,E01585
+E01545,R026,Marketing Generalist / Content,Marketing,1,82920,6.8,3,E01584
+E01546,R026,Marketing Generalist / Content,Marketing,2,105649,3.4,3,E01591
+E01547,R026,Marketing Generalist / Content,Marketing,2,100052,1.7,3,E01592
+E01548,R026,Marketing Generalist / Content,Marketing,1,71044,2.7,3,E01579
+E01549,R026,Marketing Generalist / Content,Marketing,3,139880,0.7,3,E01596
+E01550,R026,Marketing Generalist / Content,Marketing,3,141437,3.5,3,E01585
+E01551,R026,Marketing Generalist / Content,Marketing,3,146088,4.4,2,E01592
+E01552,R026,Marketing Generalist / Content,Marketing,2,113149,1.0,4,E01581
+E01553,R026,Marketing Generalist / Content,Marketing,3,147101,4.5,2,E01585
+E01554,R026,Marketing Generalist / Content,Marketing,2,106217,9.9,3,E01588
+E01555,R026,Marketing Generalist / Content,Marketing,1,88464,1.2,3,E01580
+E01556,R026,Marketing Generalist / Content,Marketing,3,142354,2.5,2,E01593
+E01557,R026,Marketing Generalist / Content,Marketing,2,90909,2.3,2,E01596
+E01558,R026,Marketing Generalist / Content,Marketing,2,106296,3.9,3,E01596
+E01559,R026,Marketing Generalist / Content,Marketing,1,88359,0.1,3,E01594
+E01560,R026,Marketing Generalist / Content,Marketing,3,119272,0.5,3,E01587
+E01561,R026,Marketing Generalist / Content,Marketing,1,80414,4.1,3,E01584
+E01562,R026,Marketing Generalist / Content,Marketing,2,91141,2.4,2,E01596
+E01563,R026,Marketing Generalist / Content,Marketing,1,71392,2.4,3,E01591
+E01564,R026,Marketing Generalist / Content,Marketing,1,71609,0.8,3,E01591
+E01565,R026,Marketing Generalist / Content,Marketing,2,100317,7.2,3,E01582
+E01566,R026,Marketing Generalist / Content,Marketing,3,131156,1.7,4,E01581
+E01567,R026,Marketing Generalist / Content,Marketing,3,147128,2.8,2,E01594
+E01568,R026,Marketing Generalist / Content,Marketing,1,82701,0.7,3,E01582
+E01569,R026,Marketing Generalist / Content,Marketing,1,77505,0.0,3,E01580
+E01570,R026,Marketing Generalist / Content,Marketing,2,91135,0.8,2,E01590
+E01571,R026,Marketing Generalist / Content,Marketing,2,114478,1.8,4,E01588
+E01572,R026,Marketing Generalist / Content,Marketing,3,116691,1.2,2,E01588
+E01573,R026,Marketing Generalist / Content,Marketing,2,105253,0.7,3,E01591
+E01574,R026,Marketing Generalist / Content,Marketing,3,131739,0.4,3,E01594
+E01575,R026,Marketing Generalist / Content,Marketing,1,79711,0.4,2,E01593
+E01576,R026,Marketing Generalist / Content,Marketing,2,97959,0.6,3,E01588
+E01577,R026,Marketing Generalist / Content,Marketing,2,102410,0.9,3,E01583
+E01578,R027,Marketing Manager,Marketing,4,162031,3.6,3,E01598
+E01579,R027,Marketing Manager,Marketing,4,184500,1.1,3,E01597
+E01580,R027,Marketing Manager,Marketing,4,189543,5.7,3,E01599
+E01581,R027,Marketing Manager,Marketing,4,153634,6.6,2,E01597
+E01582,R027,Marketing Manager,Marketing,4,177640,5.2,3,E01599
+E01583,R027,Marketing Manager,Marketing,4,178456,1.1,3,E01597
+E01584,R027,Marketing Manager,Marketing,4,174629,0.2,3,E01598
+E01585,R027,Marketing Manager,Marketing,4,177684,1.5,4,E01599
+E01586,R027,Marketing Manager,Marketing,4,181338,6.9,3,E01598
+E01587,R027,Marketing Manager,Marketing,4,161459,4.0,3,E01599
+E01588,R027,Marketing Manager,Marketing,4,170103,0.6,3,E01598
+E01589,R027,Marketing Manager,Marketing,4,154224,2.6,3,E01599
+E01590,R027,Marketing Manager,Marketing,4,187712,6.3,3,E01597
+E01591,R027,Marketing Manager,Marketing,4,168596,1.6,3,E01597
+E01592,R027,Marketing Manager,Marketing,4,187852,0.8,3,E01597
+E01593,R027,Marketing Manager,Marketing,4,165736,1.1,3,E01597
+E01594,R027,Marketing Manager,Marketing,4,176707,0.3,3,E01599
+E01595,R027,Marketing Manager,Marketing,4,183064,3.7,3,E01598
+E01596,R027,Marketing Manager,Marketing,4,177057,0.1,3,E01598
+E01597,R028,Marketing Director,Marketing,5,224957,4.6,3,E01600
+E01598,R028,Marketing Director,Marketing,5,206841,1.9,2,E01600
+E01599,R028,Marketing Director,Marketing,5,200055,0.6,3,E01600
+E01600,R029,Marketing VP,Marketing,6,244869,3.4,3,E02003
+E01601,R030,Legal Counsel,G&A,2,108694,5.7,4,E01811
+E01602,R030,Legal Counsel,G&A,2,106664,0.5,3,E01803
+E01603,R030,Legal Counsel,G&A,1,85156,0.4,3,E01804
+E01604,R030,Legal Counsel,G&A,2,104179,2.3,3,E01806
+E01605,R030,Legal Counsel,G&A,2,99377,0.9,4,E01826
+E01606,R030,Legal Counsel,G&A,2,98008,2.3,4,E01816
+E01607,R030,Legal Counsel,G&A,1,86761,3.2,3,E01818
+E01608,R030,Legal Counsel,G&A,2,110204,0.1,3,E01823
+E01609,R030,Legal Counsel,G&A,1,71229,1.0,3,E01813
+E01610,R030,Legal Counsel,G&A,1,83630,8.8,3,E01810
+E01611,R030,Legal Counsel,G&A,3,145427,1.0,3,E01814
+E01612,R030,Legal Counsel,G&A,3,124908,2.3,3,E01829
+E01613,R030,Legal Counsel,G&A,1,84876,1.0,3,E01822
+E01614,R030,Legal Counsel,G&A,1,84949,15.0,3,E01808
+E01615,R030,Legal Counsel,G&A,1,86050,0.2,3,E01825
+E01616,R030,Legal Counsel,G&A,3,143593,4.1,4,E01833
+E01617,R030,Legal Counsel,G&A,1,76952,7.3,3,E01814
+E01618,R030,Legal Counsel,G&A,2,94878,1.1,3,E01802
+E01619,R030,Legal Counsel,G&A,1,83048,0.7,3,E01810
+E01620,R030,Legal Counsel,G&A,2,105356,0.7,2,E01804
+E01621,R031,Technical Recruiter,G&A,2,93692,6.5,2,E01818
+E01622,R031,Technical Recruiter,G&A,3,116099,5.0,2,E01808
+E01623,R031,Technical Recruiter,G&A,2,106564,0.5,4,E01803
+E01624,R031,Technical Recruiter,G&A,1,77929,0.8,3,E01819
+E01625,R031,Technical Recruiter,G&A,1,71562,1.4,4,E01823
+E01626,R031,Technical Recruiter,G&A,2,108469,1.3,2,E01821
+E01627,R031,Technical Recruiter,G&A,2,93827,4.2,4,E01805
+E01628,R031,Technical Recruiter,G&A,2,104259,1.9,3,E01818
+E01629,R031,Technical Recruiter,G&A,1,86888,1.1,3,E01808
+E01630,R031,Technical Recruiter,G&A,2,108811,5.5,3,E01830
+E01631,R031,Technical Recruiter,G&A,3,116966,0.8,2,E01805
+E01632,R031,Technical Recruiter,G&A,3,149948,3.0,3,E01802
+E01633,R031,Technical Recruiter,G&A,1,81533,6.5,4,E01831
+E01634,R031,Technical Recruiter,G&A,1,76719,3.6,2,E01812
+E01635,R031,Technical Recruiter,G&A,1,83457,2.4,3,E01828
+E01636,R031,Technical Recruiter,G&A,3,118471,4.7,2,E01820
+E01637,R031,Technical Recruiter,G&A,1,88733,3.2,3,E01816
+E01638,R031,Technical Recruiter,G&A,1,76974,2.3,3,E01817
+E01639,R031,Technical Recruiter,G&A,3,140859,0.6,4,E01829
+E01640,R031,Technical Recruiter,G&A,2,90060,1.8,4,E01803
+E01641,R032,Finance Analyst,G&A,1,74094,7.5,3,E01824
+E01642,R032,Finance Analyst,G&A,1,71355,0.2,3,E01827
+E01643,R032,Finance Analyst,G&A,1,76509,6.5,2,E01806
+E01644,R032,Finance Analyst,G&A,1,73165,0.6,3,E01801
+E01645,R032,Finance Analyst,G&A,1,87339,3.8,3,E01816
+E01646,R032,Finance Analyst,G&A,2,110863,2.1,3,E01817
+E01647,R032,Finance Analyst,G&A,3,132858,1.3,2,E01812
+E01648,R032,Finance Analyst,G&A,1,84743,1.2,3,E01832
+E01649,R032,Finance Analyst,G&A,1,77673,0.9,3,E01802
+E01650,R032,Finance Analyst,G&A,2,107653,4.9,3,E01812
+E01651,R032,Finance Analyst,G&A,1,78078,3.6,4,E01824
+E01652,R032,Finance Analyst,G&A,1,86483,4.2,3,E01821
+E01653,R032,Finance Analyst,G&A,2,103665,5.4,4,E01821
+E01654,R032,Finance Analyst,G&A,1,88570,2.5,3,E01822
+E01655,R032,Finance Analyst,G&A,2,105541,6.8,3,E01829
+E01656,R032,Finance Analyst,G&A,3,120749,1.2,3,E01817
+E01657,R032,Finance Analyst,G&A,3,121083,3.0,3,E01819
+E01658,R032,Finance Analyst,G&A,2,91968,7.7,3,E01817
+E01659,R032,Finance Analyst,G&A,3,140608,0.8,3,E01805
+E01660,R032,Finance Analyst,G&A,3,131379,0.1,4,E01819
+E01661,R032,Finance Analyst,G&A,3,146844,11.6,3,E01809
+E01662,R032,Finance Analyst,G&A,2,112386,2.3,4,E01807
+E01663,R032,Finance Analyst,G&A,2,99438,1.4,3,E01818
+E01664,R032,Finance Analyst,G&A,1,75331,10.1,2,E01814
+E01665,R032,Finance Analyst,G&A,2,96957,2.6,3,E01810
+E01666,R032,Finance Analyst,G&A,2,96602,2.3,3,E01803
+E01667,R032,Finance Analyst,G&A,1,81735,0.2,2,E01806
+E01668,R032,Finance Analyst,G&A,1,74295,11.2,3,E01826
+E01669,R032,Finance Analyst,G&A,1,73058,2.9,2,E01812
+E01670,R032,Finance Analyst,G&A,1,71007,4.3,3,E01804
+E01671,R032,Finance Analyst,G&A,2,111330,0.3,3,E01822
+E01672,R032,Finance Analyst,G&A,2,92786,0.3,2,E01824
+E01673,R032,Finance Analyst,G&A,2,95054,3.9,3,E01808
+E01674,R032,Finance Analyst,G&A,1,72170,1.7,3,E01826
+E01675,R032,Finance Analyst,G&A,2,104663,1.7,3,E01820
+E01676,R032,Finance Analyst,G&A,1,85705,3.4,3,E01823
+E01677,R032,Finance Analyst,G&A,3,137864,2.5,3,E01811
+E01678,R032,Finance Analyst,G&A,1,79597,4.8,2,E01813
+E01679,R032,Finance Analyst,G&A,1,87828,2.1,2,E01801
+E01680,R032,Finance Analyst,G&A,1,82207,7.6,4,E01829
+E01681,R032,Finance Analyst,G&A,1,84682,8.2,2,E01815
+E01682,R032,Finance Analyst,G&A,2,93784,1.5,4,E01815
+E01683,R032,Finance Analyst,G&A,1,84713,5.3,3,E01809
+E01684,R032,Finance Analyst,G&A,3,143282,8.6,3,E01815
+E01685,R032,Finance Analyst,G&A,2,95599,5.9,3,E01817
+E01686,R032,Finance Analyst,G&A,1,71056,2.2,3,E01814
+E01687,R032,Finance Analyst,G&A,3,127477,0.5,2,E01821
+E01688,R032,Finance Analyst,G&A,3,142084,0.9,4,E01828
+E01689,R032,Finance Analyst,G&A,2,91212,1.7,2,E01816
+E01690,R032,Finance Analyst,G&A,3,124674,3.5,3,E01812
+E01691,R033,HR Generalist,G&A,1,85963,1.3,3,E01801
+E01692,R033,HR Generalist,G&A,1,84119,1.7,1,E01811
+E01693,R033,HR Generalist,G&A,1,70110,0.7,3,E01827
+E01694,R033,HR Generalist,G&A,2,101106,0.1,3,E01813
+E01695,R033,HR Generalist,G&A,2,93959,15.0,3,E01810
+E01696,R033,HR Generalist,G&A,1,83363,5.4,2,E01822
+E01697,R033,HR Generalist,G&A,3,119284,2.2,3,E01833
+E01698,R033,HR Generalist,G&A,3,149129,10.8,3,E01801
+E01699,R033,HR Generalist,G&A,2,114712,2.9,3,E01803
+E01700,R033,HR Generalist,G&A,3,129952,3.1,3,E01806
+E01701,R033,HR Generalist,G&A,1,85098,3.0,2,E01807
+E01702,R033,HR Generalist,G&A,2,107116,0.2,3,E01813
+E01703,R033,HR Generalist,G&A,3,143499,3.3,3,E01823
+E01704,R033,HR Generalist,G&A,2,106651,3.6,4,E01806
+E01705,R033,HR Generalist,G&A,3,125503,3.3,3,E01803
+E01706,R033,HR Generalist,G&A,2,98638,2.3,4,E01833
+E01707,R033,HR Generalist,G&A,1,81491,2.0,4,E01808
+E01708,R033,HR Generalist,G&A,3,120166,2.3,3,E01828
+E01709,R033,HR Generalist,G&A,2,100662,2.9,2,E01828
+E01710,R033,HR Generalist,G&A,3,127100,1.1,2,E01813
+E01711,R033,HR Generalist,G&A,2,98126,2.0,3,E01801
+E01712,R033,HR Generalist,G&A,1,87129,0.5,3,E01808
+E01713,R033,HR Generalist,G&A,2,108425,6.9,3,E01827
+E01714,R033,HR Generalist,G&A,1,82833,0.9,3,E01820
+E01715,R033,HR Generalist,G&A,3,140783,1.8,2,E01818
+E01716,R033,HR Generalist,G&A,1,76331,2.6,3,E01821
+E01717,R033,HR Generalist,G&A,1,88934,9.3,3,E01828
+E01718,R033,HR Generalist,G&A,1,85405,1.6,3,E01802
+E01719,R033,HR Generalist,G&A,1,74404,1.1,3,E01802
+E01720,R033,HR Generalist,G&A,3,133506,4.4,3,E01830
+E01721,R033,HR Generalist,G&A,2,90497,2.6,3,E01829
+E01722,R033,HR Generalist,G&A,2,103274,6.1,2,E01802
+E01723,R033,HR Generalist,G&A,2,112979,0.9,3,E01830
+E01724,R033,HR Generalist,G&A,1,84250,0.4,3,E01812
+E01725,R033,HR Generalist,G&A,2,100033,1.3,2,E01811
+E01726,R033,HR Generalist,G&A,1,74410,5.2,2,E01825
+E01727,R033,HR Generalist,G&A,2,94294,3.2,4,E01832
+E01728,R033,HR Generalist,G&A,1,70152,2.2,4,E01811
+E01729,R033,HR Generalist,G&A,1,78510,4.1,3,E01810
+E01730,R033,HR Generalist,G&A,1,72958,3.6,3,E01809
+E01731,R034,IT Support,G&A,1,73679,1.7,4,E01824
+E01732,R034,IT Support,G&A,1,77372,0.1,3,E01820
+E01733,R034,IT Support,G&A,1,82103,1.6,3,E01815
+E01734,R034,IT Support,G&A,2,100344,0.8,2,E01825
+E01735,R034,IT Support,G&A,2,92770,5.4,5,E01820
+E01736,R034,IT Support,G&A,2,113659,1.3,4,E01801
+E01737,R034,IT Support,G&A,3,140439,0.8,3,E01807
+E01738,R034,IT Support,G&A,3,127267,6.8,3,E01826
+E01739,R034,IT Support,G&A,1,75156,5.3,3,E01824
+E01740,R034,IT Support,G&A,1,81733,0.8,3,E01806
+E01741,R034,IT Support,G&A,1,72100,10.1,3,E01829
+E01742,R034,IT Support,G&A,2,102807,2.1,3,E01819
+E01743,R034,IT Support,G&A,2,96497,1.1,3,E01822
+E01744,R034,IT Support,G&A,1,83106,2.4,3,E01815
+E01745,R034,IT Support,G&A,1,80538,2.4,3,E01830
+E01746,R034,IT Support,G&A,2,111922,1.8,3,E01814
+E01747,R034,IT Support,G&A,1,77252,1.1,4,E01831
+E01748,R034,IT Support,G&A,3,130049,15.0,4,E01823
+E01749,R034,IT Support,G&A,2,111728,0.8,3,E01833
+E01750,R034,IT Support,G&A,1,75615,1.6,2,E01825
+E01751,R034,IT Support,G&A,3,142643,2.2,3,E01822
+E01752,R034,IT Support,G&A,2,90947,0.4,3,E01816
+E01753,R034,IT Support,G&A,1,80412,4.2,4,E01831
+E01754,R034,IT Support,G&A,3,147838,0.6,3,E01832
+E01755,R034,IT Support,G&A,2,98684,3.2,3,E01818
+E01756,R034,IT Support,G&A,2,92014,1.4,3,E01809
+E01757,R034,IT Support,G&A,2,106486,0.7,3,E01811
+E01758,R034,IT Support,G&A,3,121615,1.3,4,E01807
+E01759,R034,IT Support,G&A,1,72444,0.6,4,E01813
+E01760,R034,IT Support,G&A,1,87942,13.9,3,E01819
+E01761,R035,Executive Assistant,G&A,1,74008,3.2,3,E01827
+E01762,R035,Executive Assistant,G&A,1,75202,0.6,3,E01826
+E01763,R035,Executive Assistant,G&A,2,90043,8.2,3,E01805
+E01764,R035,Executive Assistant,G&A,1,85009,0.5,3,E01825
+E01765,R035,Executive Assistant,G&A,1,82280,5.1,3,E01804
+E01766,R035,Executive Assistant,G&A,3,132901,1.9,3,E01832
+E01767,R035,Executive Assistant,G&A,3,120031,0.2,3,E01831
+E01768,R035,Executive Assistant,G&A,1,71873,0.3,3,E01832
+E01769,R035,Executive Assistant,G&A,2,110049,3.8,3,E01801
+E01770,R035,Executive Assistant,G&A,1,72643,0.1,3,E01805
+E01771,R035,Executive Assistant,G&A,1,81932,6.0,3,E01819
+E01772,R035,Executive Assistant,G&A,1,89389,1.1,2,E01827
+E01773,R035,Executive Assistant,G&A,1,71249,1.0,2,E01830
+E01774,R035,Executive Assistant,G&A,2,101844,9.2,2,E01810
+E01775,R035,Executive Assistant,G&A,2,107352,0.2,3,E01820
+E01776,R035,Executive Assistant,G&A,1,87655,7.9,4,E01828
+E01777,R035,Executive Assistant,G&A,1,74291,3.6,3,E01814
+E01778,R035,Executive Assistant,G&A,1,89201,0.6,2,E01804
+E01779,R035,Executive Assistant,G&A,2,102148,5.3,3,E01809
+E01780,R035,Executive Assistant,G&A,1,78006,2.6,3,E01809
+E01781,R035,Executive Assistant,G&A,3,144799,3.3,4,E01821
+E01782,R035,Executive Assistant,G&A,1,70892,1.9,4,E01807
+E01783,R035,Executive Assistant,G&A,3,134244,6.2,3,E01802
+E01784,R035,Executive Assistant,G&A,1,87810,2.0,2,E01823
+E01785,R035,Executive Assistant,G&A,3,135888,1.4,3,E01827
+E01786,R035,Executive Assistant,G&A,2,96979,0.4,3,E01826
+E01787,R035,Executive Assistant,G&A,3,143584,1.7,3,E01830
+E01788,R035,Executive Assistant,G&A,3,128230,4.5,4,E01833
+E01789,R035,Executive Assistant,G&A,3,118246,4.3,3,E01807
+E01790,R035,Executive Assistant,G&A,2,98244,13.6,3,E01816
+E01791,R035,Executive Assistant,G&A,1,80598,0.3,2,E01817
+E01792,R035,Executive Assistant,G&A,2,95216,8.8,4,E01825
+E01793,R035,Executive Assistant,G&A,2,93589,1.9,2,E01832
+E01794,R035,Executive Assistant,G&A,1,72860,0.0,2,E01831
+E01795,R035,Executive Assistant,G&A,2,96066,1.2,2,E01804
+E01796,R035,Executive Assistant,G&A,1,88991,3.3,3,E01815
+E01797,R035,Executive Assistant,G&A,1,74846,0.2,3,E01805
+E01798,R035,Executive Assistant,G&A,2,108025,1.7,4,E01831
+E01799,R035,Executive Assistant,G&A,2,107380,0.3,3,E01824
+E01800,R035,Executive Assistant,G&A,1,78167,3.6,3,E01833
+E01801,R036,G&A Manager,G&A,4,154704,12.3,2,E01835
+E01802,R036,G&A Manager,G&A,4,181364,2.6,3,E01836
+E01803,R036,G&A Manager,G&A,4,151791,3.5,3,E01835
+E01804,R036,G&A Manager,G&A,4,178078,3.2,3,E01834
+E01805,R036,G&A Manager,G&A,4,150019,8.5,3,E01838
+E01806,R036,G&A Manager,G&A,4,188104,0.4,3,E01837
+E01807,R036,G&A Manager,G&A,4,180388,2.1,3,E01836
+E01808,R036,G&A Manager,G&A,4,177994,3.4,3,E01836
+E01809,R036,G&A Manager,G&A,4,154844,1.8,3,E01839
+E01810,R036,G&A Manager,G&A,4,182493,0.5,3,E01839
+E01811,R036,G&A Manager,G&A,4,177093,0.8,3,E01834
+E01812,R036,G&A Manager,G&A,4,174521,1.6,3,E01838
+E01813,R036,G&A Manager,G&A,4,174992,6.2,3,E01834
+E01814,R036,G&A Manager,G&A,4,157391,2.9,3,E01837
+E01815,R036,G&A Manager,G&A,4,165157,0.2,3,E01835
+E01816,R036,G&A Manager,G&A,4,160042,8.1,3,E01836
+E01817,R036,G&A Manager,G&A,4,174034,7.7,3,E01834
+E01818,R036,G&A Manager,G&A,4,151466,3.0,3,E01838
+E01819,R036,G&A Manager,G&A,4,186007,2.3,3,E01839
+E01820,R036,G&A Manager,G&A,4,189228,1.5,3,E01835
+E01821,R036,G&A Manager,G&A,4,184296,3.3,2,E01836
+E01822,R036,G&A Manager,G&A,4,188246,1.4,4,E01834
+E01823,R036,G&A Manager,G&A,4,164318,4.1,3,E01839
+E01824,R036,G&A Manager,G&A,4,150437,4.7,4,E01839
+E01825,R036,G&A Manager,G&A,4,167084,9.1,4,E01835
+E01826,R036,G&A Manager,G&A,4,186221,5.8,4,E01838
+E01827,R036,G&A Manager,G&A,4,186962,1.9,3,E01835
+E01828,R036,G&A Manager,G&A,4,168422,6.9,3,E01837
+E01829,R036,G&A Manager,G&A,4,168126,1.8,3,E01834
+E01830,R036,G&A Manager,G&A,4,153701,2.2,3,E01837
+E01831,R036,G&A Manager,G&A,4,159525,4.6,2,E01836
+E01832,R036,G&A Manager,G&A,4,167511,6.0,3,E01837
+E01833,R036,G&A Manager,G&A,4,163645,3.1,3,E01838
+E01834,R037,G&A Director,G&A,5,196668,2.8,3,E01840
+E01835,R037,G&A Director,G&A,5,190827,0.7,4,E01840
+E01836,R037,G&A Director,G&A,5,210667,2.3,3,E01840
+E01837,R037,G&A Director,G&A,5,229353,9.3,3,E01840
+E01838,R037,G&A Director,G&A,5,224929,0.5,3,E01840
+E01839,R037,G&A Director,G&A,5,194226,2.3,3,E01840
+E01840,R038,G&A VP,G&A,6,280367,7.2,2,E02002
+E01841,R039,Infrastructure/Data Center Engineer,Operations,3,127925,0.1,4,E01974
+E01842,R039,Infrastructure/Data Center Engineer,Operations,2,90912,15.0,3,E01990
+E01843,R039,Infrastructure/Data Center Engineer,Operations,1,85840,2.0,3,E01989
+E01844,R039,Infrastructure/Data Center Engineer,Operations,1,83786,1.1,3,E01993
+E01845,R039,Infrastructure/Data Center Engineer,Operations,2,95339,0.9,4,E01990
+E01846,R039,Infrastructure/Data Center Engineer,Operations,1,76709,5.8,3,E01991
+E01847,R039,Infrastructure/Data Center Engineer,Operations,1,75823,0.2,3,E01994
+E01848,R039,Infrastructure/Data Center Engineer,Operations,3,148445,10.5,3,E01979
+E01849,R039,Infrastructure/Data Center Engineer,Operations,1,83178,1.1,4,E01988
+E01850,R039,Infrastructure/Data Center Engineer,Operations,1,73133,2.0,4,E01989
+E01851,R039,Infrastructure/Data Center Engineer,Operations,2,103507,3.6,4,E01979
+E01852,R039,Infrastructure/Data Center Engineer,Operations,2,112763,3.9,4,E01995
+E01853,R039,Infrastructure/Data Center Engineer,Operations,2,96260,1.4,4,E01982
+E01854,R039,Infrastructure/Data Center Engineer,Operations,2,114053,1.6,3,E01979
+E01855,R039,Infrastructure/Data Center Engineer,Operations,2,107500,9.9,3,E01994
+E01856,R039,Infrastructure/Data Center Engineer,Operations,2,97801,1.2,2,E01989
+E01857,R039,Infrastructure/Data Center Engineer,Operations,1,70728,0.7,3,E01976
+E01858,R039,Infrastructure/Data Center Engineer,Operations,2,95653,11.4,3,E01974
+E01859,R039,Infrastructure/Data Center Engineer,Operations,1,84959,0.3,3,E01987
+E01860,R039,Infrastructure/Data Center Engineer,Operations,2,94798,0.8,3,E01989
+E01861,R039,Infrastructure/Data Center Engineer,Operations,2,93590,1.3,3,E01975
+E01862,R039,Infrastructure/Data Center Engineer,Operations,2,103755,8.9,3,E01981
+E01863,R039,Infrastructure/Data Center Engineer,Operations,1,84418,0.4,4,E01993
+E01864,R039,Infrastructure/Data Center Engineer,Operations,2,112600,3.7,3,E01986
+E01865,R039,Infrastructure/Data Center Engineer,Operations,2,114650,1.4,3,E01981
+E01866,R039,Infrastructure/Data Center Engineer,Operations,3,119396,8.7,3,E01988
+E01867,R039,Infrastructure/Data Center Engineer,Operations,1,76120,1.8,2,E01981
+E01868,R039,Infrastructure/Data Center Engineer,Operations,3,122560,8.2,2,E01982
+E01869,R039,Infrastructure/Data Center Engineer,Operations,2,95568,4.4,4,E01984
+E01870,R039,Infrastructure/Data Center Engineer,Operations,1,74983,3.6,2,E01974
+E01871,R039,Infrastructure/Data Center Engineer,Operations,2,92178,4.8,4,E01976
+E01872,R039,Infrastructure/Data Center Engineer,Operations,1,86670,6.8,3,E01995
+E01873,R039,Infrastructure/Data Center Engineer,Operations,2,105522,4.5,2,E01982
+E01874,R039,Infrastructure/Data Center Engineer,Operations,3,128713,0.1,3,E01991
+E01875,R039,Infrastructure/Data Center Engineer,Operations,1,87979,8.6,3,E01976
+E01876,R039,Infrastructure/Data Center Engineer,Operations,1,71624,1.6,2,E01980
+E01877,R039,Infrastructure/Data Center Engineer,Operations,3,123413,2.4,3,E01981
+E01878,R039,Infrastructure/Data Center Engineer,Operations,1,75262,4.4,2,E01984
+E01879,R039,Infrastructure/Data Center Engineer,Operations,1,89806,3.1,3,E01976
+E01880,R039,Infrastructure/Data Center Engineer,Operations,2,105698,6.2,3,E01980
+E01881,R039,Infrastructure/Data Center Engineer,Operations,1,79923,6.8,3,E01984
+E01882,R039,Infrastructure/Data Center Engineer,Operations,1,87589,0.2,3,E01992
+E01883,R039,Infrastructure/Data Center Engineer,Operations,3,147337,0.5,3,E01988
+E01884,R039,Infrastructure/Data Center Engineer,Operations,2,107258,6.5,3,E01987
+E01885,R039,Infrastructure/Data Center Engineer,Operations,1,87518,4.7,3,E01989
+E01886,R039,Infrastructure/Data Center Engineer,Operations,3,128892,0.1,3,E01990
+E01887,R039,Infrastructure/Data Center Engineer,Operations,3,128921,0.8,4,E01977
+E01888,R039,Infrastructure/Data Center Engineer,Operations,2,90467,7.9,3,E01981
+E01889,R039,Infrastructure/Data Center Engineer,Operations,2,98026,0.4,3,E01987
+E01890,R039,Infrastructure/Data Center Engineer,Operations,3,149476,4.0,4,E01976
+E01891,R039,Infrastructure/Data Center Engineer,Operations,2,106817,0.4,3,E01982
+E01892,R039,Infrastructure/Data Center Engineer,Operations,2,100502,6.8,3,E01983
+E01893,R039,Infrastructure/Data Center Engineer,Operations,1,85317,7.9,3,E01983
+E01894,R039,Infrastructure/Data Center Engineer,Operations,1,88201,0.4,3,E01983
+E01895,R039,Infrastructure/Data Center Engineer,Operations,1,85778,0.7,3,E01975
+E01896,R039,Infrastructure/Data Center Engineer,Operations,1,70182,4.5,2,E01975
+E01897,R039,Infrastructure/Data Center Engineer,Operations,1,88622,2.5,3,E01974
+E01898,R039,Infrastructure/Data Center Engineer,Operations,3,128674,11.6,3,E01984
+E01899,R039,Infrastructure/Data Center Engineer,Operations,1,79439,0.5,2,E01985
+E01900,R039,Infrastructure/Data Center Engineer,Operations,1,80950,4.9,3,E01974
+E01901,R039,Infrastructure/Data Center Engineer,Operations,1,75710,1.9,3,E01995
+E01902,R039,Infrastructure/Data Center Engineer,Operations,1,86975,1.9,2,E01995
+E01903,R039,Infrastructure/Data Center Engineer,Operations,2,102488,7.6,4,E01989
+E01904,R039,Infrastructure/Data Center Engineer,Operations,2,92730,1.0,3,E01985
+E01905,R039,Infrastructure/Data Center Engineer,Operations,1,86741,2.1,2,E01987
+E01906,R039,Infrastructure/Data Center Engineer,Operations,1,76175,1.0,3,E01987
+E01907,R039,Infrastructure/Data Center Engineer,Operations,1,80084,0.9,2,E01978
+E01908,R039,Infrastructure/Data Center Engineer,Operations,2,102055,5.7,3,E01990
+E01909,R039,Infrastructure/Data Center Engineer,Operations,1,70107,2.9,3,E01986
+E01910,R039,Infrastructure/Data Center Engineer,Operations,2,101370,0.9,2,E01980
+E01911,R039,Infrastructure/Data Center Engineer,Operations,1,89572,2.9,4,E01975
+E01912,R039,Infrastructure/Data Center Engineer,Operations,3,141892,1.4,3,E01991
+E01913,R039,Infrastructure/Data Center Engineer,Operations,1,76157,0.6,3,E01994
+E01914,R039,Infrastructure/Data Center Engineer,Operations,2,100513,6.7,3,E01975
+E01915,R039,Infrastructure/Data Center Engineer,Operations,1,73028,1.6,3,E01980
+E01916,R040,Program Manager (Ops),Operations,1,70519,0.3,4,E01994
+E01917,R040,Program Manager (Ops),Operations,1,88974,8.4,3,E01992
+E01918,R040,Program Manager (Ops),Operations,1,87185,1.2,3,E01978
+E01919,R040,Program Manager (Ops),Operations,3,141859,1.7,3,E01990
+E01920,R040,Program Manager (Ops),Operations,1,74121,7.4,3,E01990
+E01921,R040,Program Manager (Ops),Operations,1,86460,8.9,3,E01985
+E01922,R040,Program Manager (Ops),Operations,3,126369,4.0,3,E01978
+E01923,R040,Program Manager (Ops),Operations,3,140336,4.6,4,E01980
+E01924,R040,Program Manager (Ops),Operations,2,94854,1.2,4,E01978
+E01925,R040,Program Manager (Ops),Operations,1,73796,15.0,3,E01992
+E01926,R040,Program Manager (Ops),Operations,2,110463,1.9,4,E01975
+E01927,R040,Program Manager (Ops),Operations,2,98969,8.9,2,E01992
+E01928,R040,Program Manager (Ops),Operations,3,139307,0.1,2,E01985
+E01929,R040,Program Manager (Ops),Operations,1,73406,2.5,3,E01991
+E01930,R040,Program Manager (Ops),Operations,1,76205,0.4,3,E01976
+E01931,R040,Program Manager (Ops),Operations,1,73504,3.7,3,E01991
+E01932,R040,Program Manager (Ops),Operations,1,76320,0.3,3,E01985
+E01933,R040,Program Manager (Ops),Operations,1,89405,15.0,3,E01977
+E01934,R040,Program Manager (Ops),Operations,1,86412,1.9,2,E01979
+E01935,R040,Program Manager (Ops),Operations,3,139813,1.8,2,E01988
+E01936,R040,Program Manager (Ops),Operations,1,70284,4.8,2,E01983
+E01937,R040,Program Manager (Ops),Operations,1,82097,2.3,4,E01988
+E01938,R040,Program Manager (Ops),Operations,1,74386,7.3,4,E01977
+E01939,R040,Program Manager (Ops),Operations,2,91258,15.0,3,E01992
+E01940,R040,Program Manager (Ops),Operations,2,103171,4.3,3,E01985
+E01941,R040,Program Manager (Ops),Operations,2,109338,1.8,3,E01982
+E01942,R040,Program Manager (Ops),Operations,1,81422,2.4,4,E01993
+E01943,R040,Program Manager (Ops),Operations,1,79961,5.6,2,E01979
+E01944,R040,Program Manager (Ops),Operations,2,100985,0.6,3,E01977
+E01945,R040,Program Manager (Ops),Operations,1,78547,3.8,3,E01978
+E01946,R040,Program Manager (Ops),Operations,2,99106,2.6,3,E01988
+E01947,R040,Program Manager (Ops),Operations,1,74125,0.8,3,E01987
+E01948,R040,Program Manager (Ops),Operations,1,87949,2.9,3,E01986
+E01949,R040,Program Manager (Ops),Operations,2,107655,1.7,4,E01983
+E01950,R040,Program Manager (Ops),Operations,2,113137,0.7,4,E01978
+E01951,R040,Program Manager (Ops),Operations,1,88245,0.0,4,E01986
+E01952,R040,Program Manager (Ops),Operations,3,123194,5.2,4,E01992
+E01953,R040,Program Manager (Ops),Operations,3,126716,3.7,4,E01981
+E01954,R040,Program Manager (Ops),Operations,1,73851,6.5,3,E01993
+E01955,R040,Program Manager (Ops),Operations,3,147699,0.0,3,E01994
+E01956,R040,Program Manager (Ops),Operations,2,98578,3.4,3,E01974
+E01957,R040,Program Manager (Ops),Operations,1,85664,1.7,3,E01994
+E01958,R040,Program Manager (Ops),Operations,1,87533,2.0,4,E01977
+E01959,R040,Program Manager (Ops),Operations,3,137703,3.0,2,E01993
+E01960,R040,Program Manager (Ops),Operations,3,122136,2.5,3,E01995
+E01961,R040,Program Manager (Ops),Operations,1,81369,1.8,2,E01979
+E01962,R040,Program Manager (Ops),Operations,3,138629,11.1,2,E01995
+E01963,R040,Program Manager (Ops),Operations,3,145140,0.5,4,E01986
+E01964,R040,Program Manager (Ops),Operations,1,76018,0.4,3,E01984
+E01965,R040,Program Manager (Ops),Operations,3,119471,1.5,3,E01980
+E01966,R040,Program Manager (Ops),Operations,1,77561,5.1,3,E01991
+E01967,R040,Program Manager (Ops),Operations,3,147519,8.2,2,E01974
+E01968,R040,Program Manager (Ops),Operations,3,121026,0.3,3,E01986
+E01969,R040,Program Manager (Ops),Operations,3,128111,5.1,2,E01977
+E01970,R040,Program Manager (Ops),Operations,1,74320,4.9,4,E01984
+E01971,R040,Program Manager (Ops),Operations,1,80065,2.0,3,E01982
+E01972,R040,Program Manager (Ops),Operations,1,89951,1.4,2,E01983
+E01973,R040,Program Manager (Ops),Operations,1,78467,2.3,3,E01993
+E01974,R041,Ops Manager,Operations,4,153429,5.4,3,E01996
+E01975,R041,Ops Manager,Operations,4,182834,2.5,3,E01999
+E01976,R041,Ops Manager,Operations,4,163708,1.5,3,E01999
+E01977,R041,Ops Manager,Operations,4,184771,0.1,3,E01997
+E01978,R041,Ops Manager,Operations,4,189345,0.5,3,E01998
+E01979,R041,Ops Manager,Operations,4,150581,5.2,3,E01996
+E01980,R041,Ops Manager,Operations,4,180254,0.0,3,E01999
+E01981,R041,Ops Manager,Operations,4,157571,2.6,2,E01996
+E01982,R041,Ops Manager,Operations,4,186090,0.0,3,E01997
+E01983,R041,Ops Manager,Operations,4,163344,2.2,3,E01998
+E01984,R041,Ops Manager,Operations,4,181523,0.7,2,E01997
+E01985,R041,Ops Manager,Operations,4,174700,1.2,3,E01997
+E01986,R041,Ops Manager,Operations,4,165940,0.6,3,E01999
+E01987,R041,Ops Manager,Operations,4,189076,3.5,3,E01998
+E01988,R041,Ops Manager,Operations,4,185773,4.0,3,E01998
+E01989,R041,Ops Manager,Operations,4,165124,7.0,3,E01997
+E01990,R041,Ops Manager,Operations,4,160748,1.1,3,E01998
+E01991,R041,Ops Manager,Operations,4,164447,7.3,3,E01996
+E01992,R041,Ops Manager,Operations,4,177640,0.2,2,E01997
+E01993,R041,Ops Manager,Operations,4,163865,1.1,3,E01996
+E01994,R041,Ops Manager,Operations,4,160588,1.9,3,E01999
+E01995,R041,Ops Manager,Operations,4,169994,3.7,3,E01996
+E01996,R042,Ops Director,Operations,5,209053,2.6,3,E02000
+E01997,R042,Ops Director,Operations,5,215978,6.6,2,E02000
+E01998,R042,Ops Director,Operations,5,206863,7.8,3,E02000
+E01999,R042,Ops Director,Operations,5,194973,1.7,3,E02000
+E02000,R043,Ops VP,Operations,6,269631,0.2,3,E02002
+E02001,R044,SVP Engineering & Product,Corporate,7,366110,5.4,3,E02004
+E02002,R045,SVP G&A & Operations,Corporate,7,420930,2.8,3,E02004
+E02003,R046,SVP Go-to-Market,Corporate,7,370632,6.0,4,E02004
+E02004,R047,CEO,Corporate,7,372589,1.9,4,
