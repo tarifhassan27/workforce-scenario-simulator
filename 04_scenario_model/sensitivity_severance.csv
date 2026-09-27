@@ -1,0 +1,11 @@
+severance_weeks_per_year,net_savings_pct,c_pool_exhausted,employees_laid_off,result
+2.0,5.02,False,148,PASS
+5.0,5.0,False,200,PASS
+8.0,5.01,False,294,PASS
+10.0,5.03,False,393,PASS
+12.0,2.95,True,465,FAIL
+15.0,-1.01,True,465,FAIL
+18.0,-4.98,True,465,FAIL
+20.0,-7.63,True,465,FAIL
+25.0,-14.25,True,465,FAIL
+30.0,-20.88,True,465,FAIL

@@ -1,0 +1,17 @@
+threshold_type,value,c_role_headcount,a_role_headcount
+variance (row 11),0.6,465,384
+variance (row 11),0.7,465,384
+variance (row 11),0.8,465,384
+variance (row 11),0.9,465,384
+variance (row 11),1.0,465,197
+few-skill-holders (row 9),3.0,465,384
+few-skill-holders (row 9),4.0,465,384
+few-skill-holders (row 9),5.0,465,384
+few-skill-holders (row 9),6.0,465,384
+few-skill-holders (row 9),8.0,465,384
+few-skill-holders (row 9),10.0,465,384
+time-to-hire (row 8),40.0,465,384
+time-to-hire (row 8),50.0,465,384
+time-to-hire (row 8),60.0,465,384
+time-to-hire (row 8),70.0,465,384
+time-to-hire (row 8),80.0,465,384

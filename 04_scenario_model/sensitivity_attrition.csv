@@ -1,0 +1,6 @@
+annual_attrition_pct,net_savings_pct,protected_positions_lost,result
+4.0,1.74,27,FAIL
+6.0,2.7,39,FAIL
+8.0,3.55,48,FAIL
+10.0,4.7,62,FAIL
+12.0,5.61,77,FAIL
