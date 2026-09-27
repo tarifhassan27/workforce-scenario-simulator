@@ -1,0 +1,4 @@
+lever,net_savings_pct,run_rate_savings_pct,protected_positions_lost,passes,fail_reason
+Hiring Freeze,5.61,11.58,77,False,Protected-set positions lost (reliable across 7 seeds tested)
+Delayering,0.61,0.61,0,False,"Net savings far short of 5% target (only 34 of 2,004 employees eligible)"
+Targeted Layoffs,5.02,6.57,0,True,
