@@ -78,5 +78,4 @@ instead of a live running total, are in [`05_powerbi/phase6_notes.md`](../05_pow
 06_executive_brief/     this README, the LinkedIn carousel deck (PDF + PNGs)
 ```
 
-Built by [Tarif Hassan](https://github.com/tarifhassan27) — Project 5 of a data analytics
-portfolio aimed at EU analyst roles.
+Built by Tarif Hassan.
