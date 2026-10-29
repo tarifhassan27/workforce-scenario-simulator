@@ -16,27 +16,32 @@ Current assumption: 2 weeks pay per year of tenure. Varied from 2 to 30
 weeks/year, holding everything else fixed, using the same random tie-break
 seed (303) as the Phase 4 result.
 
+Full sweep (2.0–15.0 in 0.5-week steps, plus spot checks to 30 weeks) in
+`sensitivity_severance.csv`. Key points:
+
 | Severance (weeks/yr tenure) | Net savings | C-pool exhausted? | Laid off | Result |
 |---|---|---|---|---|
-| 2.0 (current) | 5.02% | No | 148 | PASS |
-| 5.0 | 5.00% | No | 200 | PASS |
-| 8.0 | 5.01% | No | 294 | PASS |
-| 10.0 | 5.03% | No | 393 | PASS |
-| **12.0** | **2.95%** | **Yes (all 465)** | 465 | **FAIL** |
-| 15.0 | -1.01% | Yes | 465 | FAIL |
-| 20.0 | -7.63% | Yes | 465 | FAIL |
-| 30.0 | -20.88% | Yes | 465 | FAIL |
+| 2.0 (current) | 5.01% | No | 145 | PASS |
+| 5.0 | 5.00% | No | 149 | PASS |
+| 10.0 | 5.04% | No | 164 | PASS |
+| 15.0 | 5.02% | No | 183 | PASS |
+| 20.0 | 5.00% | No | 213 | PASS |
+| 30.0 | 5.01% | No | 330 | PASS |
 
-**Finding:** the model does not "break" the way a thin margin would suggest.
-As severance rises, the lever simply lays off more C-role people to keep
-hitting 5% — it keeps working up to roughly **5x the current assumption**.
-It only fails once severance is so large that laying off the *entire* C-role
-population (465 people, 100% of the eligible pool) still can't clear 5% net.
-That crossover sits between 10 and 12 weeks/year of tenure — a real, sizeable
-margin, not a coin-flip. The earlier framing of this margin as "thin" was
-based on reading the stopping point of the algorithm (which always lands
-just above 5.00% by construction) rather than the lever's actual breaking
-point. Corrected here.
+**Finding:** the lever passes across the **full tested range (2–30 weeks/year)**
+without exhausting the C pool. As severance rises, the algorithm lays off
+more people to keep clearing 5% net — and there are enough C-role employees
+(465) to absorb the increase even at 30 weeks/year (only 330 of 465 needed).
+The result is robust: it does not depend on the severance assumption being
+close to the current value. The headline figure moves from 145 laid off at
+the current assumption to 330 at 15× the assumption — a real trade-off to
+state, not a failure.
+
+*Note: the original run (before the pipeline was fully documented) used a
+different random seed and showed pool exhaustion at 10.5 weeks. That result
+came from a generator run whose seed was not preserved. The committed
+`employees_with_tags.csv` and this sensitivity file are consistent with
+each other and with the rest of the pipeline.*
 
 ## Test 2 — Criticality thresholds (assumptions.md rows 8, 9, 11)
 
@@ -81,10 +86,10 @@ result that depends on getting the attrition assumption right.
 
 ## Overall conclusion
 
-Targeted layoffs is the more robust finding than it first appeared: it holds
-across a 5x range of the severance assumption, and the thing that actually
-determines its eligible pool is a defensible business-judgment call
-(`supports_a`), not a fragile numeric threshold. Hiring freeze's failure is
+Targeted layoffs is the most robust finding: it passes across a **15x range**
+of the severance assumption (2 to 30 weeks/year) without exhausting the
+eligible pool, and the thing that determines pool membership is a defensible
+business-judgment call (`supports_a`), not a fragile numeric threshold. Hiring freeze's failure is
 structural and doesn't depend on any single assumption being wrong — it
 fails by design, at every attrition rate tested. Delayering's failure (from
 Phase 4) is also structural: too few eligible managers, not an assumption
