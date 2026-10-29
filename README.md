@@ -2,7 +2,7 @@
 
 A decision-support model for a hypothetical CHRO question: **can you cut 5% of workforce
 cost without losing your critical talent?** Built end to end — synthetic HRIS data, SQL
-role-criticality logic, a Python scenario model, a sensitivity analysis, and a live
+role-criticality logic, a Python scenario model, a sensitivity analysis, and an interactive
 slider-driven Power BI dashboard — for a fictional ~2,000-employee company, Meridian Cloud.
 
 ![Cover](06_executive_brief/01_cover.png)
@@ -28,8 +28,8 @@ scored against a modified Huselid/Beatty/Becker workforce-differentiation framew
 - **B** — supports an A-role, or is strategic without clearing the variance bar
 - **C** — everything else; the only pool any lever is allowed to touch
 
-This split (384 / 836 / 319 / 465) is derived in SQL from raw HRIS fields — rating variance,
-replaceability thresholds, and a seeded business-judgment flag — not assumed.
+This split (**384 A / 836 B / 319 B-HR / 465 C**) is derived in SQL from raw HRIS fields —
+rating variance, replaceability thresholds, and a seeded business-judgment flag — not assumed.
 
 ![Method](06_executive_brief/03_method.png)
 
@@ -44,11 +44,19 @@ zero control over who. **Verdict: FAIL** — it fails the protection criterion, 
 
 ## Finding 2 — Targeted Layoffs
 
-Ranking the eligible C-role pool by lowest net contribution first and laying off from the
+Ranking the eligible C-role pool by lowest performance rating first and laying off from the
 bottom clears the target at **5.02%** savings with zero protected-role losses. **Verdict: PASS.**
-A sensitivity sweep on the severance assumption (2 weeks per year of tenure) shows the plan
-holds up to roughly **5x** that assumption — the pass/fail crossover doesn't happen until
-10–12 weeks — making this the most robust of the three levers by a wide margin.
+A full sensitivity sweep (2–30 weeks/year of tenure, in 0.5-week steps) shows the lever
+passes at **every tested severance level** — the algorithm simply lays off more C-role employees
+to keep clearing 5%, with 145 laid off at the current assumption rising to 330 at 15×.
+The finding is robust, not fragile.
+
+**Structural limitations to state plainly:** the C pool is pre-defined by the same model
+that runs the layoffs, so the result is partly circular — employees tagged C are precisely
+those the lever is designed to reach. This is a valid analytical choice (the framework
+intentionally restricts cuts to the non-critical pool), but it should be read as
+*"this is achievable without losing critical talent"*, not as an independent validation
+that the target pool is the right one.
 
 *(Delayering was also tested: it protects everyone but only saves 0.61% of baseline — FAIL
 on the cost criterion. Not slider-driven in the dashboard since its parameters weren't in
@@ -56,14 +64,20 @@ scope for v1; see `04_scenario_model/`.)*
 
 ![Finding 2 — targeted layoffs](06_executive_brief/05_finding_targeted_layoffs.png)
 
-## Live Dashboard
+## Interactive Dashboard (.pbix)
 
-All of the above is rebuilt live in Power BI: five What-If Parameter sliders (severance
-weeks, attrition rate, and the three criticality thresholds) drive DAX measures that
-reproduce the SQL and Python results in real time, so a reviewer can stress-test the
-assumptions without re-running anything. Full build notes, including three real DAX bugs
-hit and fixed along the way and why targeted layoffs ended up as a precomputed lookup table
-instead of a live running total, are in [`05_powerbi/phase6_notes.md`](../05_powerbi/phase6_notes.md).
+Five What-If Parameter sliders (severance weeks, attrition rate, and the three criticality
+thresholds) drive DAX measures that reproduce the SQL and Python results, so a reviewer can
+stress-test the assumptions without re-running anything. The Targeted Layoffs lever uses a
+precomputed lookup table (27 severance values) loaded via LOOKUPVALUE() — full rationale
+in the DAX spec.
+
+**To open:** download `05_powerbi/workforce_scenario_simulator.pbix` and open in
+[Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows only).
+
+Build notes (including three real DAX bugs hit and fixed) and the DAX measure spec are in
+[`05_powerbi/phase6_notes.md`](05_powerbi/phase6_notes.md) and
+[`05_powerbi/phase6_dax_spec.md`](05_powerbi/phase6_dax_spec.md).
 
 ![Dashboard](06_executive_brief/06_dashboard.png)
 
@@ -71,11 +85,11 @@ instead of a live running total, are in [`05_powerbi/phase6_notes.md`](../05_pow
 
 ```
 01_business_problem/   problem statement, scope, and lever definitions
-02_data/                synthetic company + employee data generation
-03_sql/                 role-criticality logic (A/B/B-HR/C)
-04_scenario_model/      Python lever simulations + sensitivity analysis
-05_powerbi/              live DAX rebuild, Phase 6 build notes
-06_executive_brief/     this README, the LinkedIn carousel deck (PDF + PNGs)
+02_data/               synthetic data generator + tagging pipeline
+03_sql/                role-criticality logic (A/B/B-HR/C)
+04_scenario_model/     Python lever simulations + sensitivity analysis
+05_powerbi/            interactive dashboard (.pbix), DAX spec, build notes
+06_executive_brief/    LinkedIn carousel deck (PDF + PNGs)
 ```
 
 Built by Tarif Hassan.
