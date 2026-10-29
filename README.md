@@ -5,7 +5,7 @@ cost without losing your critical talent?** Built end to end — synthetic HRIS 
 role-criticality logic, a Python scenario model, a sensitivity analysis, and an interactive
 slider-driven Power BI dashboard — for a fictional ~2,000-employee company, Meridian Cloud.
 
-![Cover](06_executive_brief/01_cover.png)
+![Cover](06_executive_brief/s01_cover.png)
 
 ## Business Problem
 
@@ -16,7 +16,7 @@ pass/fail bar: a **hiring freeze**, **delayering** (removing a layer of manageme
 **targeted layoffs**. A lever only "works" if it clears the savings target *and* loses zero
 critical positions.
 
-![Business problem](06_executive_brief/02_business_problem.png)
+![Statement](06_executive_brief/s02_statement.png)
 
 ## Method
 
@@ -31,7 +31,7 @@ scored against a modified Huselid/Beatty/Becker workforce-differentiation framew
 This split (**384 A / 836 B / 319 B-HR / 465 C**) is derived in SQL from raw HRIS fields —
 rating variance, replaceability thresholds, and a seeded business-judgment flag — not assumed.
 
-![Method](06_executive_brief/03_method.png)
+![How it works](06_executive_brief/s03_how_it_works.png)
 
 ## Finding 1 — Hiring Freeze
 
@@ -40,7 +40,7 @@ A blanket hiring freeze (no exemptions) clears the cost line: attrition alone de
 anyone else, it costs **77–90 protected (A / B-HR) positions** across the seeds tested, with
 zero control over who. **Verdict: FAIL** — it fails the protection criterion, not the cost one.
 
-![Finding 1 — hiring freeze](06_executive_brief/04_finding_hiring_freeze.png)
+![Sensitivity](06_executive_brief/s04_sensitivity.png)
 
 ## Finding 2 — Targeted Layoffs
 
@@ -62,7 +62,7 @@ that the target pool is the right one.
 on the cost criterion. Not slider-driven in the dashboard since its parameters weren't in
 scope for v1; see `04_scenario_model/`.)*
 
-![Finding 2 — targeted layoffs](06_executive_brief/05_finding_targeted_layoffs.png)
+![Scenarios](06_executive_brief/s05_scenarios.png)
 
 ## Interactive Dashboard (.pbix)
 
@@ -79,7 +79,7 @@ Build notes (including three real DAX bugs hit and fixed) and the DAX measure sp
 [`05_powerbi/phase6_notes.md`](05_powerbi/phase6_notes.md) and
 [`05_powerbi/phase6_dax_spec.md`](05_powerbi/phase6_dax_spec.md).
 
-![Dashboard](06_executive_brief/06_dashboard.png)
+![Limitations](06_executive_brief/s06_limitations.png)
 
 ## Repo structure
 
